@@ -1,0 +1,1219 @@
+The page is titled "Wyscout Match Report."
+
+At the center of the page, the final score is displayed as "0 - 1."
+
+On the left side:
+- The logo and name "Northwestern Wildcats" are shown.
+
+On the right side:
+- The logo and name "UCLA Bruins" are displayed.
+- There is an event listed: "11’ J. Contell ⚽" indicating a goal scored by J. Contell in the 11th minute.
+
+At the bottom of the page, additional details are provided:
+- Date: "14/09/2024"
+- Location: "United States. NCAA D1 Big Ten"
+- Round: "Round 1"
+
+The image displays a match report sheet from a soccer game between Northwestern Wildcats and UCLA Bruins, part of the NCAA D1 Big Ten. The match took place on September 14, 2024, and resulted in a 0-1 victory for UCLA Bruins.
+
+### Timeline:
+- UCLA Bruins scored a goal at the 11th minute, marked by the symbol ⚽.
+
+### Starting Lineups:
+
+#### Northwestern Wildcats:
+- **GK**: R. Ponce de Leon
+- **RB**: B. Mayer
+- **RCB**: N. Prince
+- **LCB**: R. Mayer
+- **LB**: F. Volmar (Subbed at 40', back at 80')
+- **RW**: B. Clagette (Subbed at 40', back at 46', subbed at 85')
+- **RCMF**: J. Suchecki (Subbed at 85')
+- **LCMF**: C. McCamy (Played full game)
+- **LW**: J. Van Deventer (Subbed at 31', back at 85')
+- **CF**: A. Awujo (Subbed at 40', back at 46', subbed at 75')
+- **CF**: T. Dewing (Subbed at 31', back at 46', subbed at 80')
+
+#### UCLA Bruins:
+- **GK**: S. Joseph
+- **RB**: P. Greenlee
+- **RCB**: A. Legaspi
+- **LCB**: P. Grassi
+- **LB**: N. Cavallo
+- **DMF**: T. Karumanchi
+- **RW**: S. Nixon (Subbed at 90+4')
+- **RCMF**: A. Ochoa (Subbed at 42', back at 46', subbed at 90+2')
+- **LCMF**: E. Caceres
+- **LW**: S. Hauksson (Subbed at 42', back at 90+2')
+- **CF**: J. Contell (Scored at 11', subbed at 90+1')
+
+### Substitutes:
+
+#### Northwestern Wildcats:
+- **LW**: P. Son (Came on at 31', subbed at 85')
+- **CF**: P. Reisz (Came on at 31', subbed at 46', back at 80')
+- **LB**: T. Glassberg (Came on at 40', subbed at 80')
+- **CF**: C. Thaggard (Came on at 40', subbed at 46', back at 75', subbed at 90')
+- **RW**: I. Addimandi (Came on at 40', subbed at 46', back at 90')
+- **RCMF**: B. LeBel (Came on at 85')
+- **RW**: M. Ramirez (Came on at 85')
+- **CF**: L. Shreiner (Came on at 90')
+
+#### UCLA Bruins:
+- **LW**: C. Wilkerson (Came on at 42', subbed at 46')
+- **RCMF**: T. Ratoviz (
+
+This image is a match report from Wyscout, providing a detailed analysis of team positions for a soccer game between Northwestern Wildcats and UCLA Bruins on September 14, 2024. The final score was Northwestern Wildcats 0 - 1 UCLA Bruins.
+
+### Team Formations:
+- **Northwestern Wildcats:** Presented on the left side with positions on a 51 m by 64 m field.
+- **UCLA Bruins:** Presented on the right side with positions on a 53 m by 64 m field.
+
+### Northwestern Wildcats Formations:
+1. **4-4-2 Formation (1' – 33'):** 
+   - Defense: 5, 4, 8, 2
+   - Midfield: 19, 11, 12, 26
+   - Forwards: 10, 17
+   - Goalkeeper: 1
+   
+2. **4-4-2 Formation (33' – 43'):**
+   - Defense: 7, 4, 8, 2
+   - Midfield: 19, 23, 12, 26
+   - Forwards: 17, 16
+   - Goalkeeper: 1
+   
+3. **4-4-2 Formation (46' – 76'):**
+   - Defense: 7, 4, 8, 2
+   - Midfield: 19, 11, 12, 26
+   - Forwards: 10, 17
+   - Goalkeeper: 1
+
+4. **4-4-2 Formation (91' – 90+9’):**
+   - Defense: 24, 14, 8, 23
+   - Midfield: 19, 5, 12, 26
+   - Forwards: 17, 16
+   - Goalkeeper: 1
+
+### UCLA Bruins Formations:
+1. **4-1-4-1 Formation (1' – 45'):**
+   - Defense: 24, 6, 4, 13
+   - Midfield: 21, 8, 7, 10
+   - Forward: 9
+   - Goalkeeper: 1
+   
+2. **4-1-4-1 Formation (45' – 52'):**
+   - Defense: 24, 6, 25, 13
+   - Midfield: 11, 8, 7, 21
+   - Forward: 12
+   - Goalkeeper: 1
+
+3. **3-5-1-1 Formation (46' – 90+2’):**
+   - Defense: 4, 6, 13
+   - Midfield: 24, 8, 7, 25, 21
+   - Forward: 12
+   - Forward: 9
+   - Goalkeeper: 1
+
+4. **3-5-1-1 Formation (95' – 90+9’):**
+   - Defense: 4, 6, 13
+   - Midfield: 24, 8, 7, 25, 21
+   - Forward: 12
+   - Forward: 10
+   - Goalkeeper: 1
+
+### General Observations:
+- Northwestern Wildcats' consistent use of the 4-
+
+The image is a detailed match report with various statistics and graphs from a soccer game between the Northwestern Wildcats and UCLA Bruins, held on September 14, 2024. The report is divided into several sections, each providing insights into different aspects of the game performance.
+
+### Opportunities (xG)
+The report lists the expected goals (xG) for both teams:
+- **Northwestern Wildcats**: Total 1.30 (1st half 0.66, 2nd half 0.64)
+  - A. Awujio: 0.54
+  - N. Prince: 0.45
+  - P. Reisz: 0.31
+- **UCLA Bruins**: Total 1.61 (1st half 1.23, 2nd half 0.38)
+  - J. Contell: 1.19
+  - A. Ochoa: 0.38
+  - S. Hauksson: 0.04
+
+### xG Dynamics
+A line graph compares xG progression over the match, showing UCLA Bruins with higher cumulative xG, particularly in the first half.
+
+### Ball Possession (%)
+- **Northwestern Wildcats**: Total 53% (1st half 49%, 2nd half 57%)
+- **UCLA Bruins**: Total 47% (1st half 51%, 2nd half 43%)
+Graph indicates periods of possession dominance by each team, notably Northwestern Wildcats gaining more in the latter stages.
+
+### Pass Accuracy (%)
+- **Northwestern Wildcats**: Total 77% (1st half 75%, 2nd half 79%)
+- **UCLA Bruins**: Total 75% (1st half 76%, 2nd half 75%)
+Graph shows a consistent pass accuracy throughout the game, with fluctuations around the midway point.
+
+### Long Pass Share (%)
+- **Northwestern Wildcats**: Total 13% (1st half 16%, 2nd half 11%)
+- **UCLA Bruins**: Total 16% (1st half 15%, 2nd half 16%)
+Graph illustrates periods of varying long pass frequency.
+
+### Duels Win Rate (%)
+- **Northwestern Wildcats**: Total 53% (1st half 57%, 2nd half 51%)
+- **UCLA Bruins**: Total 42% (1st half 41%, 2nd half 43%)
+Graph displays a higher win rate for Northwestern, peaking in certain intervals.
+
+### Attacks per Minute
+- **Northwestern Wildcats**: Total 0.46 (1st half 0.41, 2nd half 0.51)
+- **UCLA Bruins**: Total 0.27 (1st half 0.25, 2nd half 0.28)
+Graph highlights Northwestern's increased attacking rate in the second half.
+
+### Recoveries per Minute
+- **Northwestern Wildcats**: Total 0.23 (1st half 0.25, 2nd half 0.21)
+- **UCLA Bruins**: Total 0.16 (1st half 0.16, 2nd half 0.17)
+Graph indicates a more aggressive recovery strategy by Northwestern throughout the match.
+
+### Average Formation Line (meters)
+- **Northwestern Wildcats**: Total 50.9 (
+
+Certainly! The image is a detailed match report from Wyscout, focusing on a soccer game between Northwestern Wildcats (N) and UCLA Bruins (Ucla). The match took place on September 14, 2024, as part of the United States NCAA DI Big Ten. The final score was Northwestern 0, UCLA 1.
+
+### General Overview
+- **Goals:** N: 0, Ucla: 1
+- **xG (Expected Goals):** N: 1.30, Ucla: 1.61
+- **Shots on target:** N: 14, Ucla: 5/3
+- **Shots on post / blocked / wide:** N: 0, Ucla: 0/1/1
+- **From penalty area / on target:** N: 8/3, Ucla: 4/3
+- **Outside penalty area / on target:** N: 6/1, Ucla: 1/0
+- **Average shot distance (m):** N: 16.2, Ucla: 13.9
+- **Corners:** N: 7, Ucla: 5
+- **Free kicks:** N: 0, Ucla: 1
+- **Offsides:** N: 1, Ucla: 3
+- **Fouls / suffered:** N: 14/8, Ucla: 10/13
+- **Yellow / red cards:** 0/0 for both
+
+### Possession
+- **Possession %:** N: 53, Ucla: 47
+- **Pure possession time:** N: 26:40, Ucla: 23:12
+- **Number of possessions:** N: 113, Ucla: 103
+- **Possessions reaching opponent half:** N: 60, Ucla: 43
+- **Possessions reaching opponent penalty area:** N: 15, Ucla: 7
+- **Average possession duration:** N: 00:14, Ucla: 00:13
+- **Dead time:** 54:07
+
+### Open Play Possessions
+- **Total:** N: 90, Ucla: 76
+- **Short (0-10 sec):** N: 50, Ucla: 41
+- **Medium (10-20 sec):** N: 13, Ucla: 18
+- **Long (20-45 sec):** N: 23, Ucla: 15
+- **Very long (45+ sec):** N: 4, Ucla: 2
+
+### Passes
+- **Total passes / accurate:** N: 385/299, Ucla: 360/272
+- **Forward passes / accurate:** N: 145/99, Ucla: 122/65
+- **Back passes / accurate:** N: 47/42, Ucla: 55/48
+- **Lateral passes / accurate:** N: 126/104, Ucla: 141/130
+- **Progressive passes / accurate:** N: 86/63, Ucla: 66/34
+- **Long passes / accurate:** N: 53/27, Ucla: 58/24
+- **Passes to final third / accurate:** N: 54/34
+
+The document is a detailed player statistics report for the Northwestern Wildcats from a match against the UCLA Bruins, played on September 14, 2024. Below is a breakdown of the contents:
+
+### Header
+- **Wyscout Logo**: Positioned at the top left.
+- **Title**: "MATCH REPORT PLAYER STATS".
+- **Northwestern Wildcats Logo**: Positioned at the top right. 
+- **Match Information**: Northwestern Wildcats 0 – 1 UCLA Bruins (14.09.2024).
+
+### Main Table: Player Performance
+The table records various performance metrics of individual players during the match.
+
+- **Columns**:
+  - **Player**: Names listed vertically.
+  - **Minutes played**
+  - **Goals/xG** (Expected Goals)
+  - **Assists/xA** (Expected Assists)
+  - **Actions successful %/unsuccessful**
+  - **Shots/on target**
+  - **Passes/accurate**
+  - **Crosses/accurate**
+  - **Dribbles/successful**
+  - **Duels/won %**
+  - **Losses/opponent half**
+  - **Recoveries/opponent half**
+  - **Touches in penalty area**
+  - **Offsides**
+  - **Yellow/Red cards**
+
+- **Selected Player Data**:
+  - B. Mayer played 104 minutes with 106/67 actions, 59/44 passes, 5/2 dribbles, and participated in 33/21 duels.
+  - N. Prince played 104 minutes with a goals/xG of 0.0/0.45 and 1/1 crosses.
+  - V. Folmar played 61 minutes with 13/12 dribbles and 12/6 duels.
+
+### Duels Table
+The table provides details on the various duels and defensive contributions.
+
+- **Columns**:
+  - **Player**
+  - **Minutes played**
+  - **Defensive duels/won**
+  - **Offensive duels/won**
+  - **Aerial duels/won**
+  - **Loose ball duels/won**
+  - **Shots blocked**
+  - **Interceptions/Clearances**
+  - **Sliding tackles/won**
+  - **Fouls/suffered**
+
+- **Selected Player Data**:
+  - B. Mayer: 16/12 defensive duels, 5/2 offensive duels, and 6/2 interceptions.
+  - C. McCamy: 2/2 offensive duels, 5/3 interceptions.
+
+### Set Pieces
+Information on set-piece involvement.
+
+- **Columns**:
+  - **Player**
+  - **Free kicks**
+  - **Direct free kicks**
+  - **Corners served**
+  - **Throw-ins**
+
+- **Selected Player Data**:
+  - Players like B. Mayer and R. Mayer attempted set pieces, with R. Mayer providing 10 corners.
+
+### Footer
+- Page number: **6**.
+
+This report gives insights into the performance of the Northwestern Wildcats players during the match, including their offensive and defensive actions, passing accuracy, duels, dribbles, and involvement in set pieces.
+
+The image is a match report detailing player stats from a game between Northwestern Wildcats and UCLA Bruins on September 14, 2024. The section focuses on passing statistics for the Northwestern Wildcats team. Here's a breakdown of the page content:
+
+### Header:
+- **Wyscout**: Indicates the service providing the data.
+- **Match Report & Player Stats**: Specifies the type of document.
+- **Northwestern Wildcats**: Team name.
+- Score: **Northwestern Wildcats 0 – 1 UCLA Bruins** with the date (14.09.2024).
+
+### Table of Passing Stats:
+
+#### Columns:
+- **Player**: Name of the player.
+- **Minutes played**: Total minutes on the field.
+- **Forward passes / accurate**: Number of forward passes and accuracy.
+- **Back passes / accurate**: Number of back passes and accuracy.
+- **Lateral passes / accurate**: Number of lateral passes and accuracy.
+- **Short + medium passes / accurate**: Number and accuracy.
+- **Long passes / accurate**: Number and accuracy.
+- **Progressive passes / accurate**: Number and accuracy.
+- **Passes to final third / accurate**: Number and accuracy.
+- **Through passes / accurate**: Number and accuracy.
+- **Deep completions**: Number completed.
+- **Key passes**: Critical passes resulting in goal-scoring opportunities.
+- **Second / third assists**: Number of assists.
+- **Shot assists**: Assists leading to a shot.
+- **Average pass length**: Average distance of passes.
+
+#### Notable Players and Stats:
+- **B. Mayer**: Played 104 minutes, 23 forward passes with 70% accuracy, and 21.9 average pass length.
+- **R. Prince**: Also played 104 minutes, with 19/32 lateral passes accurate, progressing 8/6 in final third passes.
+- **P. Mayer**: Another 104-minute player, executing 47 short + medium passes with 85% accuracy.
+- **E. Volmar**: Played 61 minutes, made 4/3 forward passes, 11.6 average pass length.
+- **J. Van Deventer**: Achieved 2/2 back passes perfectly within 46 minutes of play.
+
+### Details:
+- Players are listed with varying minutes, showing comprehensive passing statistics.
+- Focus is on the accuracy and type of passes, detailed by attempted and successful metrics.
+- Features additional metrics for evaluating key contributions like assists and progressive play.
+- Players like B. Mayer and P. Son show strong performance in terms of forward and progressive passing.
+
+### Footer:
+- Page number **7** is visible, indicating this is a part of a continuous document.
+
+This detailed report provides insights into the passing efficiency and role of each player within the game context.
+
+This page is a match report from Wyscout for the goalkeeper, R. Ponce de Leon, in a game between Northwestern Wildcats and UCLA Bruins that ended 0-1 on September 14, 2024.
+
+### Stats
+- **Passes / Accurate:** 
+  - Match: 35/32 (91%)
+  - 1st half: 12/10 (83%)
+  - 2nd half: 23/22 (96%)
+
+- **Passes beyond own third / Accurate:**
+  - Match: 12/9 (75%)
+  - 1st half: 5/3 (60%)
+  - 2nd half: 7/6 (86%)
+
+- **Back passes to GK:**
+  - Match: 23
+  - 1st half: 10
+  - 2nd half: 13
+
+- **Shots Against:**
+  - Match: 3
+  - 1st half: 2
+  - 2nd half: 1
+
+- **Conceded Goals:**
+  - Match: 1
+  - 1st half: 1
+  - 2nd half: 0
+
+- **Saves:**
+  - Match: 2
+  - 1st half: 1
+  - 2nd half: 1
+
+- **Reflex Saves:**
+  - Match: 2
+  - 1st half: 1
+  - 2nd half: 1
+
+- **Conceded Penalty Goals / Saved:**
+  - Match: 1/0
+  - 1st half: 1/0
+  - 2nd half: 0/0
+
+- **Aerial Duels / Won:**
+  - Match: 0
+  - 1st half: 0
+  - 2nd half: 0
+
+- **Exits:**
+  - Match: 1
+  - 1st half: 0
+  - 2nd half: 1
+
+### Shots Against
+- **Shots on Target:**
+  1. J. Contell (7'), xG: 0.50
+  2. J. Contell (11'), xG: 0.81
+  3. A. Ochoa (72'), xG: 0.49
+
+### Crosses Against
+- **Crosses Map:** Shows claimed, defended, and opponent actions.
+  
+- **Crosses:**
+  1. S. Hauksson (7'), Outcome: Shot
+  2. E. Caceres (15'), Outcome: Claim
+  3. P. Greenlee (47'), Outcome: Claim
+  4. S. Nixon (49'), Outcome: Defended
+  5. N. Cavallo (71'), Outcome: Shot
+  6. P. Greenlee (74'), Outcome: Defended
+  7. N. Cavallo (76'), Outcome: Defended
+
+### Passes Beyond Own Third
+- **Passes Map:**
+  - **Successful:**
+    - R. Mayer: 3
+    - B. Mayer: 2
+    - P. Reisz: 1
+    - A. Awujo: 0
+    - T. Dewing
+
+The image is a detailed match report section titled "Player Stats" for a soccer game between the UCLA Bruins and the Northwestern Wildcats, where the Bruins won 1-0 on September 14, 2024. It includes comprehensive player statistics, summarized into various categories like "Minutes played," "Goals / xG," "Assists / xA," "Shots," "Passes / accurate," and more.
+
+### Player Statistics
+
+- **P. Greenlee**: Played 104 minutes, with a passing accuracy of 33/25 (76%), and won 12/7 (58%) duels.
+- **A. Legaspi**: Played 104 minutes, made 50/29 (58%) passes, and won 3/1 (33%) duels.
+- **P. Grassi**: Played 104 minutes, had a passing accuracy of 52/41 (79%), and won 14/7 (50%) duels.
+- **N. Cavallo**: Played 104 minutes, shot accuracy of 47/21 (45%), and won 13/4 (31%) duels.
+- **T. Karumanchi**: Played 104 minutes, 44/36 (82%) passing accuracy, and won 25/19 (76%) duels.
+- **S. Nixon**: Played 100 minutes, passing accuracy of 18/13 (72%), and won 22/12 (55%) duels.
+- **A. Ochoa**: Played 91 minutes, passing accuracy of 37/20 (54%), and cleared 6/0 shots.
+- **E. Caceres**: Played 104 minutes, 34/27 (79%) passing accuracy, and won 6/2 (33%) duels.
+- **S. Hauksson**: Played 50 minutes, passing accuracy of 11/8 (73%), and won 17/4 (24%) duels.
+- **J. Contell**: Played 97 minutes, passing accuracy of 22/10 (45%), and won 21/5 (24%) duels.
+- **C. Wilkerson**: Played 7 minutes, recorded minimal activity.
+- **T. Ratoviz**: Played 60 minutes, passing accuracy of 19/15 (79%), and won 17/9 (53%) duels.
+- **N. Pjel**: Played 7 minutes, shot accuracy of 10/5 (50%), and won 6/3 (50%) duels.
+- **Y. Senden**: Played 4 minutes, no data available.
+
+### Duels and Set Pieces
+
+- The "Duels" section lists details on "Defensive duels," "Offensive duels," "Aerial duels," "Loose ball duels," "Shots blocked," "Interceptions / Clearances," and "Sliding tackles / won."
+- Players like P. Greenlee and T. Karumanchi participated in the most duels.
+- "Set pieces" records include "Free kicks," "Direct free kicks," "Corners served," and "Throw-ins." Several players contributed to different types of set pieces, with more details given for certain positions.
+
+Overall, this data provides in-depth insights into each player's performance during the match.
+
+The image displays a detailed soccer match report showcasing player statistics for a game between Northwestern Wildcats and UCLA Bruins, with the outcome of 0 – 1 in favor of UCLA Bruins on September 14, 2024. The focus is on passing statistics.
+
+### Header Information
+- **Platform:** Wyscout
+- **Title:** Match Report - Player Stats
+- **Teams:** Northwestern Wildcats vs UCLA Bruins
+
+### Player Statistics
+A table lists players along with their detailed passing statistics. Columns are categorized as follows:
+
+1. **Player Name**
+2. **Minutes Played**
+3. **Forward Passes / Accurate**
+4. **Back Passes / Accurate**
+5. **Lateral Passes / Accurate**
+6. **Short + Medium Passes / Accurate**
+7. **Long Passes / Accurate**
+8. **Progressive Passes / Accurate**
+9. **Passes to Final Third / Accurate**
+10. **Through Passes / Accurate**
+11. **Deep Completions**
+12. **Key Passes**
+13. **Second / Third Assists**
+14. **Shot Assists**
+15. **Average Pass Length**
+
+### Sample Player Data
+
+- **P. Greenlee:** 
+  - Minutes Played: 104
+  - Forward Passes/Accurate: 10/4 (40%)
+  - Back Passes/Accurate: 8/8 (100%)
+  - Average Pass Length: 18.4
+
+- **A. Legaspi:** 
+  - Minutes Played: 104
+  - Forward Passes/Accurate: 21/6 (29%)
+  - Short + Medium Passes/Accurate: 29/26 (90%)
+  - Average Pass Length: 30.3
+
+- **E. Caceres:** 
+  - Minutes Played: 104
+  - Forward Passes/Accurate: 15/12 (80%)
+  - Long Passes/Accurate: 6/6 (100%)
+  - Average Pass Length: 21.3
+
+### Observations
+- Players have varying efficiency in passing, with many achieving high accuracy, especially with back and short/medium passes.
+- Average pass lengths vary considerably, with some players like A. Legaspi having notably longer average passes.
+- Certain players provided key passes and second/third assists, contributing to the team's offensive maneuvers.
+
+This report provides a comprehensive analysis of individual passing performance in the match, highlighting strengths and areas for improvement for each player.
+
+The page provided is a match report focusing on goalkeeping statistics for a game between the Northwestern Wildcats and the UCLA Bruins on September 14, 2024. The final score was Northwestern Wildcats 0 – 1 UCLA Bruins. The player analyzed is S. Joseph.
+
+### Stats Overview
+- **Passes / Accurate**: Total - 49/43 (88%)
+  - 1st Half: 30/28 (93%)
+  - 2nd Half: 19/15 (79%)
+- **Passes Beyond Own Third / Accurate**: Total - 22/16 (73%)
+  - 1st Half: 10/8 (80%)
+  - 2nd Half: 12/8 (67%)
+- **Back Passes to GK**: 25
+  - 1st Half: 16
+  - 2nd Half: 9
+- **Shots Against**: Total - 5 
+  - 1st Half: 3
+  - 2nd Half: 2
+- **Conceded Goals**: 0
+
+### Saves
+- **Total Saves**: 5
+  - 1st Half: 3
+  - 2nd Half: 2
+- **Reflex Saves**: 3
+  - 1st Half: 2
+  - 2nd Half: 1
+- **Conceded Penalty Goals / Saved**: 0/0
+- **Aerial Duels / Won**: 0
+- **Exits**: 1
+  - 1st Half: 0
+  - 2nd Half: 1
+
+### Shots Against Details
+- **Shots on Target:**
+  1. C. McCamy - 9' - xCG: 0.02
+  2. A. Awujo - 28' - xCG: 0.35
+  3. N. Prince - 66' - xCG: 0.41
+  4. J. Van Deventer - 98' - xCG: 0.06
+
+- Diagram indicates the goalkeeper's saves with circles representing goals/saves and reflex saves.
+
+### Crosses Against
+- **Crosses:**
+  1. F. Volmar - 20' - Claim
+  2. B. Clagette - 22' - Defended
+  3. B. Clagette - 28' - Shot
+  4. P. Son - 45' - Defended
+  5. B. Mayer - 49' - Duel
+  6. P. Son - 49' - Offside
+  7. B. Mayer - 51' - Defensive Duel
+  8. B. Mayer - 57' - Duel
+  9. B. Clagette - 65' - Defended
+  10. B. Mayer - 78' - Defended
+  11. B. Clagette - 80' - Defended
+  12. B. Mayer - 94' - Claim
+
+- Diagram shows claimed crosses, defender actions, and opponent actions.
+
+### Passes Beyond Own Third
+- **Successful Passes:** 8 out of 16
+- Players like J. Contell and S. H
+
+The page is a match report from Wyscout, focusing on the shots taken by the Northwestern Wildcats in their match against UCLA Bruins, which ended 0-1 on September 14, 2024.
+
+### Shot Analysis:
+
+- **Total Shots:** 14
+  - **On Goal:** 4 shots (29%)
+  - **Wide:** 5 shots (36%)
+  - **Blocked:** 5 shots (36%)
+  - **Goals:** 0
+
+### Visual Overview:
+
+- The top section displays a goal map with various symbols indicating shot outcomes.
+- A timeline beneath indicates when each shot occurred during the match, including significant plays in the first half (9', 16', 28', 45+4') and the second half (65', 66', 67', 78', 80', 90+1', 90+7', 90+8').
+
+### Shot Map:
+
+- A tactical layout of the field shows the positions and directions of the shots taken by the team.
+
+### Detailed Shot Breakdown:
+
+1. **C. McCamy**
+   - 9', Left foot, xG: 0.04, Pass^xG: 0.02
+
+2. **J. Suchecki**
+   - 16', Right foot, after corner, xG: 0.01
+
+3. **A. Awujo**
+   - 16', Head, xG: 0.24
+
+4. **A. Awujo**
+   - 28', Right foot, xG: 0.30, Pass^xG: 0.35
+
+5. **P. Reisz**
+   - 45+4', Left foot, xG: 0.07
+
+6. **C. McCamy**
+   - 65', Left foot, xG: <0.01
+
+7. **B. Clagette**
+   - 66', Right foot, xG: 0.01
+
+8. **N. Prince**
+   - 66', Head, after corner, xG: 0.25, Pass^xG: 0.41 
+
+9. **N. Prince**
+   - 67', Head, after corner, xG: 0.19
+
+10. **T. Dewing**
+    - 78', Right foot, xG: 0.04
+
+11. **J. Suchecki**
+    - 80', Right foot, xG: 0.06
+
+12. **P. Reisz**
+    - 90+1', Head, after corner, xG: 0.05
+
+13. **P. Reisz**
+    - 90+7', Left foot, xG: <0.01   
+
+14. **J. Van Deventer**
+    - 90+8', Head, xG: 0.01, Pass^xG: 0.06
+
+### Statistical Summary:
+
+- **Total xG (Expected Goals):** 1.3
+- **Total Pass^xG (Expected Goals from passes):** 0.84 
+
+*The report provides a comprehensive overview of the Wildcat's shooting performance, highlighting player contributions, shot types, timing, and expected goals metrics.*
+
+The page is a shot analysis from a soccer match report by Wyscout, featuring a game between Northwestern Wildcats and UCLA Bruins on September 14, 2024. The final score was 0-1 in favor of UCLA Bruins.
+
+### Shot Map
+- An illustration shows the distribution of five shots targeting Northwestern Wildcats' goal.
+- The map highlights whether shots were on goal, wide, blocked, or resulted in a goal.
+
+### Shot Categorization:
+- **Total Shots:** 5
+  - **On Goal:** 3 shots (60%)
+  - **Wide:** 1 shot (20%)
+  - **Blocked:** 1 shot (20%)
+  - **Goals:** 1
+
+### Timeline
+- Details the timing of shots across both halves, marking when shots were taken.
+
+### Pitch Map
+- Visual representation of shot locations on the field, matching the categories listed above.
+
+### Shot Details Table
+- Lists information about each shot, including:
+  1. **J. Contell:** 7', Right foot, xG 0.43, P.xG 0.50
+  2. **J. Contell:** 11', Right foot penalty, xG 0.76, P.xG 0.81 (Goal)
+  3. **S. Hauksson:** 26', Right foot, xG 0.04
+  4. **A. Ochoa:** 72', Right foot, xG 0.26, P.xG 0.49
+  5. **A. Ochoa:** 72', xG 0.12
+
+### xG Summary
+- The total expected goals (xG) for the team is 1.61.
+- The total xG considering chance quality (P.xG) is 1.8.
+
+### Additional Information
+- A small note references a glossary link, dataglossary.wyscout.com/xg, for further explanation on expected goals.
+
+The image is a detailed "Match Report" from Wyscout focusing on passes made by the Northwestern Wildcats soccer team during a game where they lost 0-1 to the UCLA Bruins on September 14, 2024. Here's an extensive breakdown of its contents:
+
+### Central Graphic: Passing Network
+
+- **Field Diagram**: The image includes a soccer field with player positions marked by their numbers inside colored circles. The colors represent players from the Northwestern Wildcats, with different sizes indicating the number of touches each player had. 
+- **Passing Lines**: Lines connect players, displaying passing combinations with arrows. The thickness of the lines represents the frequency of passes in one direction. Only combinations with more than three passes in one direction are shown.
+- **Possession Percentages**: The field is divided into three sections near the left, center, and right, annotated with percentages (26%, 43%, 31%) indicating the ball possession distribution across the field width.
+
+### Players and Passing Combinations
+
+- **Player Information**: The list includes player names, numbers, and any substitution information. For instance, R. Ponce de Leon is player number 1, and substitutions are denoted with numbers in parentheses (e.g., F. Volmar (61) indicates a substitution at the 61st minute).
+- **Passing Matrix**: A matrix shows the frequency of passes between players. Players are listed on both horizontal and vertical axes, with the corresponding squares filled with numbers indicating the number of passes between those players. 
+- **Color Intensity**: The intensity of color in the matrix squares indicates the frequency of passes—the darker the green, the higher the frequency, reflecting common passing combinations.
+
+### Summary of Player Contributions
+
+- **Individual Player Stats**: Each player's total number of passes is listed at the end of each row (e.g., R. Ponce de Leon with 31 passes).
+- **Highlight of Frequent Connections**: Certain player connections show significantly higher pass combinations, visualized through darker green in the matrix.
+
+### Analysis
+
+This report provides insights into passing patterns, player interactions, and team dynamics. By examining it, one can assess the dominant players in the passing game, areas with concentrated passing activity, and the overall style of play employed by the Northwestern Wildcats during this match.
+
+The image is a match report focused on the passing patterns of the UCLA Bruins during their game against the Northwestern Wildcats on September 14, 2024, where UCLA won 1-0. Produced by Wyscout, the report is titled "MATCH REPORT PASSES."
+
+### Passing Network Visualization
+
+- **Field Diagram**: The upper half contains a diagram illustrating the passing network on a football field. Each circle (node) represents a player, with varying sizes indicating the number of touches each player had.
+- **Pass Paths**: Lines between players indicate passes. The thickness of each line represents the frequency of passes between the respective players.
+- **Zone Control Percentages**: Percentages listed in three areas (39%, 43%, and 18%) likely indicate the team's possession or passing concentration in those field areas.
+
+### Individual Player Passing Data
+
+Below the field diagram is a detailed table listing UCLA players and their passing interactions:
+
+- **Player List and Pass Data**: 
+  - Each row corresponds to a player, indicated by a number and their name (e.g., 1. S. Joseph).
+  - Rows and columns intersect showing the number of passes exchanged between players. For instance, S. Joseph completed numerous passes to several players, with notable combinations including 13 passes to N. Cavallo and 9 to P. Grassi.
+- **Color Intensity**: Varying shades of green highlight the frequency of passing combinations. Darker shades imply more frequent interactions.
+- **Total Passes**: Numbers beside player names denote the total passes made to different teammates. For instance, P. Grassi made a total of 41 passes.
+
+### Substitutions and Participation
+
+- Some players are denoted with substitution times in parentheses, such as:
+  - 50’: S. Hauksson
+  - 60’: T. Karumanchi and R. Ratoviz
+  - 91’: A. Ochoa
+  - 97’: J. Contell
+  - 100’: S. Nixon
+- Players without passing stats are shown with entries like C. Wilkerson (7) and Y. Senden (4), indicating limited or no recorded passing data.
+
+This report provides an in-depth analysis of UCLA's passing dynamics, showcasing key passing links and overall team passing distribution to help understand player roles and team strategy.
+
+The image is a detailed match report from Wyscout documenting duels in a NCAA Division 1 Big Ten soccer game between the Northwestern Wildcats and the UCLA Bruins. The match took place on September 14, 2024, and ended with a score of Northwestern Wildcats 0 – 1 UCLA Bruins.
+
+### Field Duel Map:
+- The field is divided into zones with numerical data indicating the duels won by each team.
+- The numbers in the boxes represent the duels won by Northwestern (first number) and UCLA (second number):
+  - Top left corner: 6/3
+  - Top right corner: 2/2
+  - Center circle: 1/2
+  - Other notable stats: 8/9 (far right, top), 10/2 (bottom right corner), 7/2 (bottom left corner)
+
+### Possession Indicator:
+- Northwestern has 54% possession.
+- UCLA has 46% possession.
+
+### Duels Overview (Bottom Table):
+- Players from Northwestern Wildcats are on the left:
+  - Notable players include B. Mayer, who is involved in 29 duels with various outcomes including winning several duels against notable UCLA players.
+  - Other active players: N. Prince (19 duels), C. McCamy (7 duels), T. Dewing (12 duels).
+
+- UCLA Bruins players are represented with icons and include:
+  - N. Cavallo (No. 21)
+  - R. Glasor (No. 8)
+  - M. Rosé (No. 17)
+  - C. Capelasson (No. 16), who won 11 duels.
+
+The green shading in the duel statistics indicates the number and outcome of duels, providing an at-a-glance overview of team and player performance.
+
+### Page Information:
+- On the top right corner, the page indicates the current page number: 16.
+
+The page is a detailed soccer match report from Wyscout, focusing on losses during the match between Northwestern Wildcats and UCLA Bruins on September 14, 2024, in the NCAA D1 Big Ten.
+
+### Header:
+- **Title**: Match Report: Losses
+- **Event**: United States, NCAA D1 Big Ten
+- **Date**: 14.09.2024
+- **Score**: Northwestern Wildcats 0 – 1 UCLA Bruins
+
+### Northwestern Wildcats Summary:
+
+#### Players and Losses:
+- **B. Mayer**: 
+  - Current Match: 18
+  - Last 5 Matches: 11.8
+- **R. Mayer**: 
+  - Current Match: 17
+  - Last 5 Matches: 14.1
+- **N. Prince**: 
+  - Current Match: 11
+  - Last 5 Matches: 9.1
+- **T. Dewing**: 
+  - Current Match: 9
+  - Last 5 Matches: 11.4
+- **Total Losses for Team**: Current Match: 120, Last 5 Matches: 108.3
+
+#### Losses by Type:
+- Forward pass: 42
+- Lateral or back pass: 22
+- Ground duel: 21
+- Other: 35
+
+#### Field Maps:
+- **1st Half**: Indications of passes, ground duels, other losses, and those leading to an opponent shot.
+- **2nd Half**: Similar breakdown with detailed arrows showing ball movement.
+
+### UCLA Bruins Summary:
+
+#### Players and Losses:
+- **N. Cavallo**: 
+  - Current Match: 21
+  - Last 5 Matches: 9.5
+- **A. Legaspi**: 
+  - Current Match: 14
+  - Last 5 Matches: 9.2
+- **P. Grassi**: 
+  - Current Match: 11
+  - Last 5 Matches: 7.3
+- **P. Greenlee**: 
+  - Current Match: 11
+  - Last 5 Matches: 12.9
+- **Total Losses for Team**: Current Match: 116, Last 5 Matches: 102.7
+
+#### Losses by Type:
+- Forward pass: 42
+- Ground duel: 24
+- Lateral or back pass: 16
+- Other: 34
+
+#### Field Maps:
+- **1st Half**: Shows passing, ground duels, other losses, and losses leading to opponent shots.
+- **2nd Half**: Contains detailed trajectories of play with arrows.
+
+### Visual Key:
+The field graphics use different symbols:
+- Black circles for passes
+- Gray squares for ground duels
+- Black triangles for other losses
+- Yellow symbols for losses leading to an opponent shot
+
+### Page Number:
+Bottom right corner: 17
+
+The report provides a comprehensive analysis of the teams’ performances, highlighting individual contributions to possession losses and their types across both halves of the game.
+
+The match report provides an analysis of ball recoveries for a soccer game between the Northwestern Wildcats and the UCLA Bruins, held on September 14, 2024, as part of the NCAA D1 Big Ten. The final score was Northwestern Wildcats 0 – 1 UCLA Bruins.
+
+### Northwestern Wildcats
+
+#### Player Performances:
+- **B. Mayer**: 15 recoveries, 9.5 in the last 5 matches
+- **R. Mayer**: 11 recoveries, 9.3 in the last 5 matches
+- **N. Prince**: 9 recoveries, 11.8 in the last 5 matches
+- **J. Suchecki**: 7 recoveries, 8.3 in the last 5 matches
+
+**Total**: 77 recoveries, with an average of 78.9 in the last 5 matches
+
+#### Types of Recoveries:
+- Positioning: 29
+- Ground duel: 21
+- Interception: 17
+- Aerial duel: 7
+- Sliding tackle: 3
+
+#### Heat Maps:
+- **1st Half**: Displays scatter plot with various icons on the field representing different types of recoveries, such as positioning, ground duel, interception, aerial duel, and sliding tackles.
+- **2nd Half**: Similar scatter plot indicating areas of play and defensive actions.
+
+### UCLA Bruins
+
+#### Player Performances:
+- **T. Karumanchi**: 16 recoveries, 12.2 in the last 5 matches
+- **P. Greenlee**: 14 recoveries, 12.9 in the last 5 matches
+- **P. Grassi**: 9 recoveries, 7.9 in the last 5 matches
+- **S. Joseph**: 6 recoveries, 3.4 in the last 5 matches
+
+**Total**: 75 recoveries, with an average of 77.5 in the last 5 matches
+
+#### Types of Recoveries:
+- Positioning: 34
+- Interception: 19
+- Ground duel: 13
+- Aerial duel: 8
+- Sliding tackle: 1
+
+#### Heat Maps:
+- **1st Half**: Similar to Northwestern, includes multiple recovery types using designated icons.
+- **2nd Half**: Continues to show distribution and frequency of recoveries.
+
+### Additional Notes:
+- The pitch is divided into sections by percentage for both halves to indicate zones of recovery concentration.
+- Both teams' recoveries are represented with specific symbols for easy identification: circles, squares, pentagons, diamonds, and triangles.
+
+This detailed analysis provides insights into each team's defensive strategies and individual player contributions during this specific match.
+
+The image is a soccer match report from Wyscout, focusing on dribbles during a game between Northwestern Wildcats and UCLA Bruins, played on September 14, 2024. UCLA Bruins won 1-0.
+
+### Northwestern Wildcats
+
+**Player Dribbles:**
+- **P. Son:** 
+  - 1st Half: 4 dribbles attempted, 3 successful (75%)
+  - Last 5 Matches: Avg. 6.2 dribbles, 63% success rate
+- **A. Awujo:** 
+  - 1st Half: 3 dribbles, 2 successful (67%)
+  - Last 5 Matches: Avg. 3.9 dribbles, 50% success rate
+- **B. Mayer:** 
+  - 1st Half: 2 dribbles, 2 successful (100%)
+  - Last 5 Matches: Avg. 0.7 dribbles, 100% success rate
+- **C. Thaggard:** 
+  - 1st Half: 1 dribble, 1 successful (100%)
+  - Last 5 Matches: Avg. 4.3 dribbles, 55% success rate
+
+**Total Dribbles 1st Half:** 13 attempted, 10 successful (77%)
+
+**2nd Half Dribbles:**
+- **P. Son:** 1 attempted, 0 successful
+- **A. Awujo:** 1 attempted, 0 successful
+- **B. Mayer:** 1 attempted, 1 successful (100%)
+- **C. Thaggard:** 1 attempted, 1 successful (100%)
+
+**Total Dribbles 2nd Half:** 2 attempted, 2 successful
+
+### UCLA Bruins
+
+**Player Dribbles:**
+- **S. Nixon:** 
+  - 1st Half: 3 dribbles attempted, 2 successful (67%)
+  - Last 5 Matches: Avg. 3.5 dribbles, 62% success rate
+- **T. Ratoviz:** 
+  - 1st Half: 3 dribbles, 2 successful (67%)
+  - Last 5 Matches: Avg. 1.8 dribbles, 75% success rate
+- **T. Karumanchi:** 
+  - 1st Half: 2 dribbles, 1 successful (50%)
+  - Last 5 Matches: Avg. 1.4 dribbles, 17% success rate
+- **J. Contell:** 
+  - 1st Half: 1 dribble, 0 successful
+  - Last 5 Matches: Avg. 5.1 dribbles, 40% success rate
+
+**Total Dribbles 1st Half:** 12 attempted, 7 successful (58%)
+
+**2nd Half Dribbles:**
+- **B. Mayer:** 1 attempted, 1 successful (100%)
+- **N. Prince:** 2 attempted, 2 successful (100%)
+- **B. LeBel:** 1 attempted, 1 successful (100%)
+- **C. Thaggard:** 1 attempted, 1 successful (100%)
+
+**Total Dribbles 2nd Half:** 3 attempted, 2 successful
+
+### Maps
+
+- **1st Half Maps
+
+The page is a match report for a soccer game between Northwestern Wildcats and UCLA Bruins, sponsored by Wyscout. The match was part of the United States NCAA D1 Big Ten, played on September 14, 2024. The final score was Northwestern Wildcats 0 – 1 UCLA Bruins.
+
+### Northwestern Wildcats Key Passes
+
+#### Players and Statistics:
+- **B. Clagette**: 3 key passes in the match, 0.2 average in the last 5 matches.
+- **C. McCamy**: 3 key passes in the match, 1.5 average in the last 5 matches.
+- **R. Mayer**: 2 key passes in the match, 0.5 average in the last 5 matches.
+- **T. Dewing**: 1 key pass in the match, 1.1 average in the last 5 matches.
+- **Total**: 12 key passes, 5.1 average in the last 5 matches.
+
+#### Key Pass Distribution:
+- **B. Clagette**: Contributed in passes to C. McCamy (1/1, 100%) and T. Dewing (1/1, 100%).
+- **C. McCamy**: Made 1 key pass to R. Mayer (1/1, 100%).
+
+#### Visual Representation (Maps):
+- **1st Half**: Shows key passes initiated primarily from central to wide areas.
+- **2nd Half**: Highlights passes mainly from defensive to attacking third positions.
+
+### UCLA Bruins Key Passes
+
+#### Players and Statistics:
+- **S. Hauksson**: 1 key pass in the match, 0.4 average in the last 5 matches.
+- **J. Contell**: 1 key pass in the match, 1.0 average in the last 5 matches.
+- **N. Cavallo**: 1 key pass in the match, 1.2 average in the last 5 matches.
+- **Total**: 3 key passes, 7.9 average in the last 5 matches.
+
+#### Key Pass Distribution:
+- **A. Ochoa**: Made 1 key pass (1/1, 100%).
+- **J. Contell**: Delivered 1 key pass to S. Hauksson (1/1, 100%).
+- **N. Cavallo**: Completed 1 key pass (1/1, 100%).
+
+#### Visual Representation (Maps):
+- **1st Half**: Displays key passes from the midfield to the attacking area.
+- **2nd Half**: Depicts a key pass across the width of the field into the attacking third.
+
+The diagrams for both halves feature the layout of the soccer field with arrows indicating the direction and destination of the key passes.
+
+### Northwestern Wildcats vs UCLA Bruins Match Report
+
+**Match Overview:**
+- **Competition:** NCAA D1 Big Ten
+- **Date:** 14th September 2024
+- **Score:** Northwestern Wildcats 0 – 1 UCLA Bruins
+
+---
+
+#### Northwestern Wildcats Crosses
+
+**Players:**
+- **B. Mayer:**
+  - Total: 5 crosses, 2 successful (40%)
+  - Last 5 matches average: 1.6 crosses
+
+- **B. Clagette:**
+  - Total: 4 crosses, 1 successful (25%)
+  - Last 5 matches average: 2.0 crosses
+
+- **A. Awujo:**
+  - Total: 3 crosses, 0 successful (0%)
+  - Last 5 matches average: 1.3 crosses
+
+- **P. Son:**
+  - Total: 3 crosses, 0 successful (0%)
+  - Last 5 matches average: 4.3 crosses
+
+- **Overall Team Performance:**
+  - 17 crosses, 3 successful (18%)
+  - Last 5 matches average: 14.5 crosses (28% success rate)
+
+**Half-Time Cross Analysis:**
+- **1st Half:**
+  - Highlights significant attempts with varying success in the final third.
+
+- **2nd Half:**
+  - Notable successful and unsuccessful attempts plotted on the field map.
+
+---
+
+#### UCLA Bruins Crosses
+
+**Players:**
+- **S. Hauksson:**
+  - Total: 2 crosses, 1 successful (50%)
+  - Last 5 matches average: 1.1 crosses
+  
+- **P. Greenlee:**
+  - Total: 2 crosses, 0 successful (0%)
+  - Last 5 matches average: 1.5 crosses
+
+- **N. Cavallo:**
+  - Total: 2 crosses, 1 successful (50%)
+  - Last 5 matches average: 2.9 crosses
+
+- **A. Ochoa:**
+  - Total: 1 cross, 0 successful (0%)
+  - Last 5 matches average: 1.6 crosses
+
+- **Overall Team Performance:**
+  - 9 crosses, 2 successful (22%)
+  - Last 5 matches average: 13.2 crosses (39% success rate)
+
+**Half-Time Cross Analysis:**
+- **1st Half:**
+  - Detailed diagram shows positioning and success of cross attempts by players.
+
+- **2nd Half:**
+  - Depicts strategic positioning and attempts on the field, with a balance of success in final third.
+
+---
+
+This detailed report highlights crossing statistics and effectiveness for both Northwestern Wildcats and UCLA Bruins, providing an in-depth analysis of player performance and strategies used during the match.
+
+The image is a match report from Wyscout for a game between the Northwestern Wildcats and the UCLA Bruins. The specific focus of this page is on fouls committed during the match.
+
+**Header:**
+- The match took place on September 14, 2024, and it was a NCAA D1 Big Ten game.
+- The final score was Northwestern Wildcats 0 – 1 UCLA Bruins.
+
+**Fouls Information:**
+
+**Northwestern Wildcats:**
+
+- **Players and Fouls in Last 5 Matches:**
+  - F. Volmar: 2 fouls, 0.4 average
+  - R. Mayer: 2 fouls, 0.4 average
+  - C. Thaggard: 2 fouls, 1.2 average
+  - N. Prince: 2 fouls, 1.4 average
+  - Total: 14 fouls, 11.1 average
+
+- **Fouls in This Match:**
+  - 1st Half: 
+    - Map showing 7 fouls at various positions on the field.
+  - 2nd Half:
+    - R. Mayer: 1 foul
+    - N. Prince: 2 fouls
+
+**UCLA Bruins:**
+
+- **Players and Fouls in Last 5 Matches:**
+  - S. Hauksson: 3 fouls, 1.5 average
+  - S. Nixon: 2 fouls, 0.8 average
+  - J. Contell: 1 foul, 1.3 average
+  - A. Legaspi: 1 foul, 1.0 average
+  - Total: 10 fouls, 10.8 average
+
+- **Fouls in This Match:**
+  - 1st Half:
+    - Map showing 6 fouls at various positions on the field.
+  - 2nd Half:
+    - S. Hauksson: 1 foul
+    - S. Nixon: 1 foul
+    - J. Contell: 1 foul
+    - A. Legaspi: 1 foul
+
+Each section contains graphical representations (pitch maps) indicating the locations of fouls with a dot for regular fouls. The possession percentage across different sections of the field is noted above each pitch map for both halves. The game timeline is marked at the bottom showing the timing of fouls through the halves.
+
+### Match Report: Ground Duels
+
+#### Overview
+- **Match**: Northwestern Wildcats vs. UCLA Bruins
+- **Score**: Northwestern Wildcats 0 - 1 UCLA Bruins
+- **Date**: 14.09.2024
+- **Competition**: United States NCAA D1 Big Ten
+
+### Northwestern Wildcats
+
+#### Player Performance
+- **B. Mayer**: 
+  - Ground duels: 21 attempted, 14 successful (67%)
+  - Last 5 matches impact: 12.9 rating, 57% win rate
+- **P. Son**: 
+  - Ground duels: 14 attempted, 9 successful (64%)
+  - Last 5 matches impact: 7.5 rating, 40% win rate
+- **N. Prince**: 
+  - Ground duels: 13 attempted, 10 successful (77%)
+  - Last 5 matches impact: 9.1 rating, 57% win rate
+- **A. Awujo**: 
+  - Ground duels: 11 attempted, 4 successful (36%)
+  - Last 5 matches impact: 23.8 rating, 51% win rate
+
+#### 1st Half Ground Duels (Successful vs. Unsuccessful)
+- Map detailing the locations of both successful (circular markers) and unsuccessful (square markers) ground duels. Key actions are concentrated in the central and defensive zones.
+
+#### 2nd Half Ground Duels
+- Map showing a distribution shift with more battles in the attacking half.
+
+### UCLA Bruins
+
+#### Player Performance
+- **T. Karumanchi**: 
+  - Ground duels: 19 attempted, 14 successful (74%)
+  - Last 5 matches impact: 15.3 rating, 44% win rate
+- **S. Nixon**: 
+  - Ground duels: 18 attempted, 9 successful (50%)
+  - Last 5 matches impact: 19.3 rating, 61% win rate
+- **T. Ratoviz**: 
+  - Ground duels: 15 attempted, 8 successful (53%)
+  - Last 5 matches impact: 14.9 rating, 47% win rate
+- **S. Hauksson**: 
+  - Ground duels: 11 attempted, 2 successful (18%)
+  - Last 5 matches impact: 12.1 rating, 48% win rate
+
+#### 1st Half Ground Duels
+- Visual representation includes successful (circular) and unsuccessful (square) actions with key battles again emphasizing midfield and defensive areas.
+
+#### 2nd Half Ground Duels
+- Similar distribution tends to favor defensive and transitional zones, indicating tactical adjustments.
+
+### Team Totals
+
+#### Northwestern Wildcats
+- **1st Half**: 124 attempted, 74 successful (60%)
+- **2nd Half**: Total efforts reflect a slightly reduced success rate.
+
+#### UCLA Bruins
+- **1st Half**: 108 attempted, 51 successful (47%)
+- **2nd Half**: Steady performance with adjustments focusing on maintaining possession and counter-attacks.
+
+### Notes
+- **General Patterns**: Northwestern had a higher success rate in ground duels, particularly in defensive zones. UCLA relied more on midfield battles, maintaining pressure despite lower success rates.
+- **Strategies Highlighted**:
+
+The page is a detailed match report on aerial duels from a soccer game between the Northwestern Wildcats and the UCLA Bruins, held on September 14, 2024. Here is a breakdown of the contents:
+
+### Title and Headers
+- **Title:** Wyscout Match Report – Aerial Duels
+- **Teams:** Northwestern Wildcats vs. UCLA Bruins
+- **Location and Score:** United States, NCAA D1 Big Ten (14.09.2024), Northwestern Wildcats 0 – 1 UCLA Bruins
+
+### Northwestern Wildcats Data
+
+#### Players' Performance
+- **B. Mayer:** Attempted 7 duels, succeeded in 4 (57%), and has a last 5 matches success rate of 54% with a rating of 6.2.
+- **N. Prince:** Attempted 7 duels, succeeded in 3 (43%), with a last 5 matches success rate of 55% and a rating of 7.2.
+- **T. Dewing:** Attempted 5 duels, succeeded in all (100%), with a last 5 matches success rate of 50% and a rating of 2.3.
+- **J. Suchecki:** Attempted 4 duels, succeeded in 3 (75%), with a last 5 matches success rate of 63% and a rating of 3.1.
+- **Total:** 46 attempts, 23 successes (50%), and a last 5 matches rate of 54% with an average rating of 40.8.
+
+#### Aerial Duels Map
+- **1st Half and 2nd Half:** Separate pitch maps showing successful (empty circles) and unsuccessful (filled squares) aerial duels with minute markers and positions on the field.
+
+### UCLA Bruins Data
+
+#### Players' Performance
+- **P. Greenlee:** Attempted 5 duels, succeeded in 4 (80%), with a last 5 matches success rate of 46% and a rating of 4.0.
+- **P. Grassi:** Attempted 5 duels, succeeded in 2 (40%), with a last 5 matches success rate of 54% and a rating of 2.6.
+- **N. Cavallo:** Attempted 5 duels, succeeded in 1 (20%), with a last 5 matches success rate of 63% and a rating of 3.9.
+- **J. Contell:** Attempted 5 duels, succeeded in 1 (20%), with a last 5 matches success rate of 42% and a rating of 6.7.
+- **Total:** 36 attempts, 17 successes (47%), with a last 5 matches rate of 53% and an average rating of 27.9.
+
+#### Aerial Duels Map
+- **1st Half and 2nd Half:** Separate pitch maps displaying successful and unsuccessful aerial duels, marked similarly to the Northwestern maps. 
+
+### Additional Players' Performance (2nd Half)
+- Detailed table showing each player's success rate in crossed duels during the 2nd half, with specific focus on B. Mayer, N. Prince, T. Karumanchi, J. Contell, N. Cavallo, and P. Grassi.
+
+### Page Number
+- The page number is 24.
+
+This detailed imagery and data breakdown display the teams' performance and strategies
+
+The image is a glossary from a match report by Wyscout, detailing various soccer metrics and terms. Here's an elaborate description of its contents:
+
+### Average Positions
+Players' positions are calculated as an average of all actions where they touched the ball.
+
+### XG (Expected Goals)
+A metric that assigns a probability (based on historical stats) of how likely it is to score from a shot, considering the position, type of assist, and preceding events. It focuses on the predictability of moments in a match rather than pure luck.
+
+### Pass Types
+- **Forward / Back / Lateral Pass:** Quantified in quadrants of 45°, with lateral passes being more than 12 meters to the side of the field.
+- **Smart Pass:** A creative pass that aids in developing an attack.
+- **Second / Third Assist:** A second assist leads to an assist, and a third assists the second. Not every assist involves them.
+- **Progressive Pass:** Moves the ball considerably forward. Requirements:
+  - 30 meters in own half
+  - 15 meters between own and opponent halves
+  - 10 meters in opponent half
+- **Pass to Final Third:** Passes within 35 meters from the opponent's goal line.
+
+### Duels
+- **Defensive Duel:** Occurs when the opponent team possesses the ball.
+- **Offensive Duel:** Happens when the player possesses the ball.
+
+### Reflex Save
+A goalkeeper save using reflexive moves.
+
+### Game Dynamics
+- **Transition:** Active ball possession change, categorized into Low, Medium, and High based on field thirds.
+- **Attack:** Possessions with at least one action in the opponent’s final third.
+- **Counterattack:** Quick transitions exploiting the opponent's positional disadvantage.
+- **Positional Attack:** Open plays not considered counterattacks.
+
+### Other Metrics
+- **Deep Completion:** A non-cross pass received within a 20-meter radius from the opponent's goal line.
+- **PPDA:** Passes per defensive action in the opponent's final 60% of the pitch; indicates pressing intensity.
+- **Match Tempo:** Number of passes per minute of possession.
+
+This glossary provides crucial definitions for understanding soccer analytics and tactical insights.

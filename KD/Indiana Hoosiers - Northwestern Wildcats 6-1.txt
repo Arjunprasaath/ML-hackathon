@@ -1,0 +1,1306 @@
+The match report provided is from a game analysis on Wyscout, detailing a match in the NCAA Division 1 Big Ten league. Here are the contents described systematically:
+
+**Header:**
+- The document features a "Wyscout" logo at the top.
+- Underneath, the title "MATCH REPORT" is presented prominently.
+
+**Match Details:**
+- **Teams:**
+  - Indiana Hoosiers
+  - Northwestern Wildcats
+- **Score:**
+  - Indiana Hoosiers: 6
+  - Northwestern Wildcats: 1
+
+**Goal Scorers for Indiana Hoosiers:**
+1. S. Sarver scored at the 19th minute.
+2. T. Mihalić scored twice, first at the 38th minute and again at the 45th minute.
+3. J. Weiss also scored twice, at the 59th minute and the 76th minute.
+4. C. Heuer scored at the 90+6th minute.
+
+**Goal Scorer for Northwestern Wildcats:**
+- B. Clagette scored at the 66th minute.
+
+**Footer:**
+- The date of the match is noted as 30/10/2024.
+- It took place in the United States, under the NCAA Division 1 Big Ten.
+- The match occurred in Round 10.
+
+### Match Report: Indiana Hoosiers vs. Northwestern Wildcats
+
+**Event Details:**
+- **Competition:** United States NCAA D1 Big Ten
+- **Date:** October 30, 2024
+- **Final Score:** Indiana Hoosiers 6 - 1 Northwestern Wildcats
+
+---
+
+### Timeline of Goals:
+
+- **19'** Indiana Hoosiers
+- **32'** Indiana Hoosiers
+- **33'** Northwestern Wildcats
+- **38'** Indiana Hoosiers
+- **45+7'** Indiana Hoosiers
+- **46'** Indiana Hoosiers
+- **59'** Indiana Hoosiers
+
+### Starting Lineups:
+
+#### Indiana Hoosiers:
+
+- **GK:** J. Harms
+- **RB:** Q. Elliot
+- **RCB:** J. Miller
+- **LCB:** J. Maher
+- **LB:** A. Barger
+- **RW:** S. Sarver (⚽ 19' ▾ 79')
+- **RCMF:** P. McDonald (⚽ 52')
+- **LCMF:** J. Wagoner (🟨 90'+2)
+- **LW:** C. Oduro (⚽ 32' ▾46' ⚽ 72')
+- **CF:** J. Weiss (⚽ 59' ⚽ 76' ▾86')
+- **CF:** T. Mihalić (⚽ 38' ⚽ 45+7')
+
+#### Northwestern Wildcats:
+
+- **GK:** R. Ponce de Leon
+- **RB:** B. Mayer (▾86')
+- **RCB:** L. Shreiner
+- **CB:** N. Prince
+- **LCB:** R. Mayer (▾86')
+- **LB:** T. Glassberg (▾45+1' ▾86')
+- **RW:** A. Awujo (🔄 33' 🔼 46' 🔄 61')
+- **RCMF:** J. Suchecki (▾79')
+- **LCMF:** B. LeBel (🔄 15' 🔄 46' 🔼 83')
+- **LW:** C. McCamy (▾45+1' 🔄 46' 🔼 83')
+- **CF:** B. Clagette (⚽ 33' 🔄 46' 🔼 66' 🔼 83')
+
+### Substitutes:
+
+#### Indiana Hoosiers:
+
+- **LW:** C. Heuer (🔼 90'+6' 🔼 32' 🔼 46' 🔼 90+2')
+- **RB:** B. Minzey (🔼 72')
+- **LW:** S. Stewart (🔼 79')
+- **CF:** M. Nesci (🔼 86')
+
+#### Northwestern Wildcats:
+
+- **RW:** C. Thaggard (🔼 33' 🔼 46')
+- **CF:** T. Dewing (🔼 33' 🔄 46' 🔼 61')
+- **LW:** J. Van Deventer (🔼 45+1' 🔼 86')
+- **LB:** M. Ramirez (🔼 45+1' 🔼 61')
+- **RW:** P. Son (🔼 61')
+- **
+
+The page provides a detailed match report of a soccer game between the Indiana Hoosiers and the Northwestern Wildcats, as part of the United States NCAA D1 Big Ten on October 30, 2024. The final score was Indiana Hoosiers 6, Northwestern Wildcats 1.
+
+**Title and Logos:**
+- At the top left, the page is titled "MATCH REPORT POSITIONS" by Wyscout.
+- The Indiana Hoosiers’ logo is on the left, and the Northwestern Wildcats’ logo is on the right.
+
+**Main Section:**
+- Two large formations are displayed, each representing the starting positions of the respective teams.
+  
+**Indiana Hoosiers’ Formation:**
+- Positioned on the left side with a labeled field that measures 42 meters by 59 meters.
+- Players are numbered: 1, 2, 4, 5, 7, 8, 10, 11, 12, 13, 16, 19, 21, 22.
+- A variety of positions are identified with specific players highlighted in key areas.
+
+**Northwestern Wildcats’ Formation:**
+- Positioned on the right side with a labeled field measuring 44 meters by 43 meters.
+- Players are numbered: 1, 2, 5, 8, 10, 12, 13, 14, 17, 20, 22, 23, 26, 28.
+- The players' positions are distributed across various sections of the field.
+
+**Formations and Time Intervals:**
+- Below the main graphic, smaller boxes show different team formations across various time intervals during the match.
+
+**Indiana Hoosiers Formations:**
+1. 4-4-2 from 1’ to 32’.
+2. 4-4-2 from 32’ to 46’.
+3. 4-4-2 from 46’ to 72’.
+4. 4-4-2 from 92’ to 90+9’.
+
+**Northwestern Wildcats Formations:**
+1. 5-4-1 from 1’ to 33’.
+2. 4-4-2 from 46’ to 61’.
+3. Changed formations at 61’ to 79’.
+4. 4-4-2 from 86’ to 90+9’.
+
+Each mini-formation represents a snapshot of how the teams lined up during various match segments.
+
+The page provides a detailed analytical report of a soccer match between the Indiana Hoosiers and the Northwestern Wildcats, with a final score of Indiana Hoosiers 6 - 1 Northwestern Wildcats. Below is a detailed breakdown by section:
+
+### Opportunities (xG)
+- **Indiana Hoosiers**: Total xG is 2.97 with 1.70 in the first half and 1.27 in the second half.
+  - T. Mihalić: 1.17 (0.02 first half, 1.15 second half)
+  - J. Weiss: 0.71 (0.19 first half, 0.52 second half)
+  - C. Heuer: 0.21 (0.21 first half)
+- **Northwestern Wildcats**: Total xG is 0.84 with 0.08 in the first half and 0.76 in the second half.
+  - B. Clagette: 0.48 (0.48 second half)
+  - C. McCamy: 0.21 (0.21 second half)
+  - J. Suchecki: 0.07 (0.07 first half)
+
+### xG Dynamics
+- Graph illustrating the expected goals (xG) progression over time with significant increases for the Indiana Hoosiers, particularly in the second half.
+
+### Ball Possession (%)
+- **Indiana Hoosiers**: 57% total (56% first half, 58% second half)
+- **Northwestern Wildcats**: 43% total (42% first half, 44% second half)
+- Graph shows possession percentages at 15-minute intervals.
+
+### Pass Accuracy (%)
+- **Indiana Hoosiers**: 80% total (81% first half, 79% second half)
+- **Northwestern Wildcats**: 79% total (75% first half, 82% second half)
+- Graph shows accuracy trends over 15-minute intervals.
+
+### Long Pass Share (%)
+- **Indiana Hoosiers**: 12% total (12% first half, 14% second half)
+- **Northwestern Wildcats**: 9% total (7% first half, 10% second half)
+- Graph indicating the use of long passes throughout the match.
+
+### Duels Win Rate (%)
+- **Indiana Hoosiers**: 48% total (54% first half, 43% second half)
+- **Northwestern Wildcats**: 49% total (45% first half, 53% second half)
+- Graph depicts the duels win rate at intervals.
+
+### Attacks per Minute
+- **Indiana Hoosiers**: 0.55 total (0.63 first half, 0.46 second half)
+- **Northwestern Wildcats**: 0.25 total (0.21 first half, 0.3 second half)
+- Graph shows attacking frequency over time.
+
+### Recoveries per Minute
+- **Indiana Hoosiers**: 0.25 total (0.27 first half, 0.2 second half)
+- **Northwestern Wildcats**: 0.26 total (0.21 first half, 0.31 second half)
+- Graph depicting recovery rates per minute.
+
+### Average Formation Line (m)
+- **Indiana Hoosiers**: 54.2 total (54.0 first half, 
+
+### Match Report Overview
+
+**Teams**: Indiana Hoosiers vs Northwestern Wildcats  
+**Score**: Indiana Hoosiers 6 - 1 Northwestern Wildcats  
+**Competition**: United States NCAA D1 Big Ten  
+**Date**: 30.10.2024
+
+### General Statistics
+
+- **Goals**:  
+  - Indiana (IU): 6  
+  - Northwestern (N): 1
+
+- **Expected Goals (xG)**:  
+  - IU: 2.97  
+  - N: 0.84
+
+- **Shots / on target**:  
+  - IU: 24/11  
+  - N: 10/1
+
+- **Shots on post / blocked / wide**:  
+  - IU: 1/9/3  
+  - N: 0/3/6
+
+- **Shots from penalty area / on target**:  
+  - IU: 14/5  
+  - N: 7/1
+
+- **Outside penalty area / on target**:  
+  - IU: 10/0  
+  - N: 3/0
+
+- **Average shot distance (m)**:  
+  - IU: 18.5  
+  - N: 17.5
+
+- **Corners**:  
+  - IU: 7  
+  - N: 3
+
+- **Free kicks**:  
+  - IU: 3  
+  - N: 0
+
+- **Offsides**:  
+  - IU: 2  
+  - N: 1
+
+- **Fouls / suffered**:  
+  - IU: 12/14  
+  - N: 16/9
+
+- **Yellow / red cards**:  
+  - IU: 1/0  
+  - N: 1/0
+
+### Attacks
+
+- **Total / with shots**:  
+  - IU: 58/23  
+  - N: 27/10
+
+- **Positional attacks / with shots**:  
+  - IU: 42/18  
+  - N: 22/9
+
+- **Counterattacks**:  
+  - IU: 0  
+  - N: 0
+
+- **Free kicks / with shots**:  
+  - IU: 3/0  
+  - N: 0
+
+- **Corners / with shots**:  
+  - IU: 7/1  
+  - N: 3/0
+
+### Defence
+
+- **Sliding tackles**:  
+  - IU: 3  
+  - N: 2
+
+- **Interceptions**:  
+  - IU: 47  
+  - N: 51
+
+- **Clearances**:  
+  - IU: 8  
+  - N: 22
+
+- **Passes allowed per defensive action (PPDA)**:  
+  - IU: 7.2  
+  - N: 14.5
+
+### Transitions
+
+- **Recoveries / low / medium / high**:  
+  - IU: 84/32/31/21  
+  - N: 78/40/33/5
+
+- **Opponent half recoveries**:  
+  - IU: 32  
+  - N: 14
+
+- **Losses / low / medium / high**:  
+  - IU: 113/14/
+
+The image is a match report showing detailed player statistics for the Indiana Hoosiers in their 6-1 win against the Northwestern Wildcats on October 30, 2024. Below is an organized breakdown of the content:
+
+### General Information
+- **Match Result**: Indiana Hoosiers 6-1 Northwestern Wildcats
+- **Date**: 30.10.2024
+
+### Player Statistics
+The table showcases individual statistics for each player who participated in the game. Key data points include:
+
+- **Player**: Name or initial of the player
+- **Minutes Played**: Total minutes each player was on the field
+- **Goals/Assists**: Number of goals scored and assists made
+- **xG/xA**: Expected goals and expected assists
+- **Actions/Success**: The total number of actions completed and their success rate
+- **Shots/On Target**: Total shots and those on target
+- **Passes/Accurate**: Pass accuracy
+- **Crosses/Accurate**: Crosses and their accuracy
+- **Dribbles/Successful**: Number of dribbles and the success rate
+- **Duels/Won**: Duels engaged and won
+- **Losses/Own Half**: Ball losses and where they occurred
+- **Recoveries/Opponent Half**: Number of recoveries made, particularly in the opponent's half
+- **Touches in Penalty Area**: Number of touches in the opponent's penalty area
+- **Offsides**: Instances of being caught offside
+- **Yellow/Red Cards**: Number of cards received
+
+### Duels Section
+It provides specific duel statistics for each player, which cover:
+- **Defensive Duels/Won**: Defensive engagements with success rate
+- **Offensive Duels/Won**: Offensive challenges with success rate
+- **Aerial Duels/Won**: Aerial battles contested and won
+- **Loose Ball Duels/Won**: Engagements for loose balls and success rate
+- **Shots Blocked**: Number of shots blocked
+- **Interceptions/Clearances**: Interceptions and clearances made
+- **Sliding Tackles/Won**: Sliding tackles attempted and successfully completed
+- **Fouls/Suffered**: Fouls committed and suffered
+
+### Set Pieces
+Set piece statistics include:
+- **Free Kicks**: Taken and converted
+- **Direct Free Kicks**: Direct attempts on goal
+- **Corners Served**: Corners taken
+- **Throw-ins**: Number of throw-ins executed
+
+This wealth of data provides a detailed view of each player's contributions and performance during the match.
+
+This document is a match report player stats page from Wyscout, detailing the passing statistics for Indiana Hoosiers in their 6-1 victory over the Northwestern Wildcats on October 30, 2024.
+
+### Header
+- **Title:** Indiana Hoosiers
+- **Score:** Indiana Hoosiers 6 – 1 Northwestern Wildcats
+- **Date:** 30.10.2024
+- **Category:** MATCH REPORT PLAYER STATS
+
+### Table Columns
+The table contains eleven columns detailing specific passing statistics:
+1. **Player:** List of players.
+2. **Minutes played:** Time each player spent on the field.
+3. **Forward passes / accurate:** Attempts and accuracy of forward passes.
+4. **Back passes / accurate:** Attempts and accuracy of back passes.
+5. **Lateral passes / accurate:** Attempts and accuracy of lateral passes.
+6. **Short + medium passes / accurate:** Attempts and accuracy of short and medium passes.
+7. **Long passes / accurate:** Attempts and accuracy of long passes.
+8. **Progressive passes / accurate:** Attempts and accuracy of progressive passes.
+9. **Passes to final third / accurate:** Attempts and accuracy of passes to the final third.
+10. **Through passes / accurate:** Attempts and accuracy of through passes.
+11. **Deep completions:** Number of deep completions.
+12. **Key passes:** Number of key passes.
+13. **Second / third assists:** Number of second/third assists.
+14. **Average pass length:** Average length of passes in meters.
+
+### Player Statistics
+- **G. Elliot:** Played 106 minutes, contributed with numerous key passes, and had a prominent presence with progressive passes.
+- **J. Miller:** Strong in lateral passes with an accuracy of 67%, most passes to the final third were precise.
+- **J. Maher:** Very good at short + medium passes, high accuracy of 91% in progressively forwarding the ball.
+- **A. Barger:** Displayed efficiency with an accuracy of 83% in backpasses.
+- **C. Sarver:** Had significant back passes, although not very progressive in passing forward.
+- **P. McDonald:** High accuracy of 93% in back passes, good average pass length.
+- **J. Wagoner:** Demonstrated notable contribution in deep completions and accuracy in long passes.
+- **C. Oduro:** Excellent in forward passing with a high success rate.
+- **J. Weiss:** The longest playing time among substitutes, effectiveness in accurate distribution.
+- **T. Mihalic:** His passing statistics highlight strong accuracy in passing to the final third.
+- **C. Heuer:** Appeared for 28 minutes, maintaining simplicity and accuracy in short passes.
+- **B. Minzey:** Focused on short engagements but with proficiency in deep completions.
+- **S. Stewart:** Played 20 minutes, limited data but accurate in short passes.
+- **M. Nesci:** Recorded minimal playing time with few passing opportunities.
+
+Overall statistics demonstrate robust passing distribution, effective transition plays, and high average pass lengths, contributing to the Hoosiers' dominant performance.
+
+### Match Report: Goalkeeper Performance
+
+#### Player: J. Harms
+- **Teams:** Indiana Hoosiers 6 – 1 Northwestern Wildcats
+- **Date:** 30.10.2024
+
+---
+
+### Stats
+
+#### Passing
+- **Overall Accuracy:** 37/32 passes completed (86% accuracy)
+  - **1st Half:** 14/13 (93% accuracy)
+  - **2nd Half:** 23/19 (83% accuracy)
+
+- **Passes Beyond Own Third (Accuracy):** 20/16 (80% accuracy)
+  - **1st Half:** 2/2 (100% accuracy)
+  - **2nd Half:** 18/14 (78% accuracy)
+
+- **Back Passes to Goalkeeper:** 22 overall
+  - **1st Half:** 11
+  - **2nd Half:** 11
+
+#### Defensive Actions
+- **Shots Against:** 1 shot (1 goal conceded)
+  - **1st Half:** 0 shots
+  - **2nd Half:** 1 shot
+
+- **Conceded Goals:** 1 goal
+  - **1st Half:** 0 goals
+  - **2nd Half:** 1 goal
+
+#### Saves
+- **Total Saves:** 0
+- **Reflex Saves:** 0
+- **Conceded Penalty Goals/Saved:** 0/0
+
+#### Aerial and Exit Actions
+- **Aerial Duels/Won:** 0
+- **Exits:** 1 (only in the 1st Half)
+
+---
+
+### Shots Against
+
+- **Player and Time:** B. Clagette, 66th minute, xCG: 0.14
+- **Outcome:** Goal on target, marked on the map
+
+---
+
+### Crosses Against
+
+- **Actions and Outcomes:**
+  1. B. Mayer - 1' - Touch
+  2. T. Glassberg - 2' - Defended
+  3. M. Ramirez - 51' - Defended
+  4. B. Mayer - 51' - Duel
+  5. M. Ramirez - 51' - Defended
+  6. B. Clagette - 68' - Shot
+  7. P. Son - 69' - Claim
+  8. A. O'Neill - 91' - Head pass
+  9. P. Son - 92' - Duel
+  10. I. Addimandi - 97' - Duel
+
+---
+
+### Passes Beyond Own Third
+
+- **Successful Passes:** 11 players, total of 16 successful passes
+  - **J. Miller:** 3 total (2 successful)
+  - **S. Sarver:** 2 total (1 successful)
+  - **T. Mihalíc:** 2 total (2 successful)
+  - **Q. Elliot:** 2 total (1 successful)
+  - Others contributed fewer passes.
+
+- **Unsuccessful Passes:** 4
+
+---
+
+### Passes Inside Own Third
+
+- **Successful Passes:** 15 players, total of 16 successful passes
+  - **J. Miller:** 7 total (6 successful)
+  - **J. Maher:** 6 total (6 successful)
+  - **P. McDonald and Q. Elliot
+
+The document is a detailed match report titled "MATCH REPORT PLAYER STATS" from Wyscout for a soccer game between the Indiana Hoosiers and Northwestern Wildcats, which took place on October 30, 2024. The final score of the match is Indiana Hoosiers 6 – 1 Northwestern Wildcats. The page includes detailed statistics of individual player performances from the Northwestern Wildcats team and is divided into two main sections: "Player Stats" and "Duels," with an additional "Set pieces" column.
+
+### Player Stats Section
+
+This section provides the following information for each player:
+
+- **Player**: Name and some have a jersey number next to them.
+- **Minutes played**: Length of time each player was on the field.
+- **Goals / xG (expected goals)**: Goals scored / expected goals.
+- **Assists / xA (expected assists)**: Assists made / expected assists.
+- **Actions / successful**: Total actions attempted / percentage successful.
+- **Shots / on target**: Total shots / percentage on target.
+- **Passes / accurate**: Total passes / percentage completed accurately.
+- **Crosses / accurate**: Crosses attempted / percentage completed accurately.
+- **Dribbles / successful**: Dribbles attempted / percentage successful.
+- **Duels / won**: Total duels / percentage won.
+- **Losses / won**: Ball losses / percentage recovered.
+- **Recoveries / opponent half**: Ball recoveries / percentage in the opponent's half.
+- **Touches in penalty area**: Number of touches in the penalty area.
+- **Offsides**: Instances caught offside.
+- **Yellow / Red cards**: Cards received.
+
+### Detailed Player Stats
+
+- **B. Mayer**: Played 93 minutes, scored 1 goal with 1.0 xG, 55 actions with 71% success, 34% passes accurate, 2/2 100% dribbles successful.
+- **L. Shreiner**: Played 106 minutes, 69 actions with 68% success, 35% passes accurate.
+- **N. Prince**: Played 106 minutes, 69 actions with 75% success, 47% passes accurate.
+- **R. Mayer**: Played 93 minutes, 25 actions with 75% success, 39% passes accurate.
+- **T. Glassberg**: Played 58 minutes, 42 actions with 49% success, 27% passes accurate.
+
+(Complete stats for all players listed)
+
+### Duels Section
+
+This section provides information on:
+
+- **Minutes played**: Length on the field.
+- **Defensive duels/ won**: Total defensive duels / percentage won.
+- **Offensive duels/ won**: Total offensive duels / percentage won.
+- **Aerial duels/ won**: Total aerial duels / percentage won.
+- **Loose ball duels/ won**: Total loose ball duels / percentage won.
+- **Shots blocked**: Number of shots blocked.
+- **Interceptions / Clearances**: Number of clearances done.
+- **Sliding tackles / won**: Total sliding tackles / percentage won.
+- **Fouls suffered**: Number of fouls suffered.
+
+### Set Pieces Section
+
+This section provides data on:
+
+- **Free kicks**: Number of free kicks taken.
+
+
+The image is a page from a soccer match report provided by Wyscout, detailing player passing statistics for the Northwestern Wildcats. The match was between Indiana Hoosiers and Northwestern Wildcats, with a final score of Indiana Hoosiers 6 – 1 Northwestern Wildcats on October 30, 2024.
+
+### Player Passing Stats Overview
+
+- **Header Information:**
+  - Title: MATCH REPORT
+  - Subtitle: PLAYER STATS
+  - Team: Northwestern Wildcats
+  - Opponent and Score: Indiana Hoosiers 6 – 1 Northwestern Wildcats
+
+- **Passing Statistics Table:**
+
+  **Columns:**
+  1. Player
+  2. Minutes Played
+  3. Forward Passes / Accurate
+  4. Back Passes / Accurate
+  5. Lateral Passes / Accurate
+  6. Short + Medium Passes / Accurate
+  7. Long Passes / Accurate
+  8. Progressive Passes / Accurate
+  9. Passes to Final Third / Accurate
+  10. Through Passes / Accurate
+  11. Deep Completions
+  12. Key Passes
+  13. Second / Third Assists
+  14. Shot Assists
+  15. Average Pass Length
+
+  **Players and Data:**
+
+  - **B. Mayer**: 93 mins, 13/11 (85% FP), 8/6 (75% BP), 9/6 (67% LP), 30/25 (83% SMP), 2/2 (100% LP), 12/9 (75% PP), 4/3 (75% PFT), - TP, 1 DC, 1 KP, 1 SA, Avg. Pass Length 18.8
+  - **L. Shreiner**: 106 mins, 8/6 (75% FP), 4/3 (75% BP), 2/2 (100% LP), 3/0 (0% SMP), 5/4 (80% LP), 7/2 (29% PP), - PFT, - TP, - DC, - KP, - SA, Avg. Pass Length 22.8
+  - **N. Prince**: 106 mins, 20/17 (85% FP), 3/2 (67% BP), 20/18 (90% LP), 43/39 (91% SMP), 4/2 (50% LP), 8/4 (50% PP), 4/2 (50% PFT), 5/0 (0% TP), - DC, - KP, - SA, Avg. Pass Length 21.9
+  - **R. Mayer**: 93 mins, 21/16 (76% FP), 3/3 (100% BP), 13/12 (92% LP), 34/28 (82% SMP), 5/4 (80% LP), 9/6 (67% PP), 5/3 (60% PFT), - TP, - DC, - KP, - SA, Avg. Pass Length 21.2
+  - **T. Glassberg**: 58 mins, 14/6 (43% FP), 3/2 (67% BP), 
+
+### Goalkeeper Match Report
+
+**Match Overview**
+- **Match Result:** Indiana Hoosiers 6 – 1 Northwestern Wildcats
+- **Date:** October 30, 2024
+- **Player:** R. Ponce de Leon
+
+### Stats
+
+**Passes / Accurate**
+- Overall: 37/31 (84%)
+- 1st Half: 22/18 (82%)
+- 2nd Half: 15/13 (87%)
+
+**Passes Beyond Own Third / Accurate**
+- Total: 16/12 (75%)
+- 1st Half: 10/6 (60%)
+- 2nd Half: 6/6 (100%)
+
+**Back Passes to GK**
+- Total: 20
+
+**Shots Against**
+- Total: 11
+- 1st Half: 6
+- 2nd Half: 5
+
+**Conceded Goals**
+- Total: 6
+- 1st Half: 3
+- 2nd Half: 3
+
+**Saves**
+- Total: 5
+- 1st Half: 3
+- 2nd Half: 2
+
+**Reflex Saves**
+- Total: 2 (1 per half)
+
+**Conceded Penalty Goals/Saved**
+- Total Conceded: 1/0 (1st Half)
+- 2nd Half: 0/0
+
+**Aerial Duels / Won**
+- Total: 2/2 (100%)
+- 1st Half: 1/1 
+- 2nd Half: 1/1
+
+**Exits**
+- Total: 3 
+- 1st Half: 1
+- 2nd Half: 2
+
+### Shots Against
+
+**Shots on Target**
+- Players involved:
+  1. S. Sarver (19’, xCG 0.17)
+  2. C. Oduro (24’, xCG 0.04)
+  3. J. Weiss (35’, xCG 0.02)
+  4. T. Mihalic (38’, xCG 0.44)
+  5. Q. Elliot (41’, xCG 0.44)
+  6. T. Mihalic (45’, xCG 0.81)
+  7. J. Weiss (59’, xCG 0.59)
+  8. S. Sarver (73’, xCG 0.07)
+  9. J. Weiss (76’, xCG 0.41)
+  10. J. Weiss (81’, xCG 0.07)
+  11. C. Heuer (96’, xCG 0.30)
+
+### Crosses Against
+
+**Crosses Map**
+- Claimed and Defended by Opponents
+- Key plays:
+  1. S. Sarver (3’, Touch)
+  2. S. Sarver (5’, Defended)
+  3. J. Weiss (19’, Defended)
+  4. S. Sarver (36’, Defended)
+  5. S. Sarver (41’, Touch)
+  6. J. Wagoner (41’, Defended) 
+  7. J. Weiss (48’, Defended) 
+  8. J. Miller (50’, Defended) 
+
+
+This page provides a detailed shot analysis for a soccer match between Indiana Hoosiers and Northwestern Wildcats, dated 30.10.2024. Indiana Hoosiers emerged victorious with a scoreline of 6 - 1.
+
+### Shot Map
+- **Total Shots:** 24
+- **On Goal:** 11 (46%)
+- **Wide / Off Target:** 3 (17%)
+- **On Post:** 1
+- **Blocked:** 9 (38%)
+- **Goals Scored:** 6
+
+### Timeline
+- The shot attempts throughout the match are distributed on a timeline below the shot map, indicating the intensity of offensive play during specific match segments.
+
+### Field Map
+- The field map at the bottom left visualizes where each shot was taken, with symbols indicating the type of outcome (goal, on-target, wide, etc.). Goal-scoring opportunities are represented by diamond shapes.
+
+### Player and Shot Details
+A table on the right provides a detailed breakdown of each shot:
+
+1. **C. Oduro**
+   - 2': Left foot, xG 0.04
+   - 24': Right foot, xG 0.06
+   - 32': Right foot, xG 0.10
+
+2. **J. Weiss**
+   - 3': Right foot, xG 0.06
+   - 35': Left foot, xG 0.04
+   - 45+2': Left foot, xG 0.05
+   - 59': Right foot, xG 0.08
+   - 76': Right foot, xG 0.41
+   - 81': Right foot, xG 0.03
+
+3. **P. McDonald**
+   - 5': Left foot, xG 0.05
+
+4. **S. Sarver**
+   - 19': Right foot after corner, xG 0.02, pXG 0.17
+   - 73': Left foot, xG 0.05, pXG 0.07
+
+5. **T. Mihalić**
+   - 36': Left foot, xG 0.22
+   - 38': Right foot, xG 0.02, pXG 0.44
+   - 45': Right foot, penalty, xG 0.76, pXG 0.81
+   - 90+6': Right foot, xG 0.15
+
+6. **Q. Elliot**
+   - 41': Right foot, xG 0.12, pXG 0.44
+
+7. **A. Barger**
+   - 41': Left foot, xG 0.08
+
+8. **M. Nesci**
+   - 90+6': Right foot, xG 0.15
+
+9. **C. Heuer**
+   - 90+6': Right foot, xG 0.40, pXG 0.30
+
+Additional notes include "+4 shots of lesser quality" and total expected goals (xG) of 2.97 and post-shot expected goals (pXG) of 3.37. 
+
+Overall, the data gives a comprehensive overview of shot efficiencies, player contributions, and their expected outcomes throughout the game.
+
+This match report page is from a game between the Northwestern Wildcats and the Indiana Hoosiers, which ended in a 6-1 victory for Indiana on October 30, 2024. The report is powered by Wyscout and focuses on the Northwestern Wildcats' shots.
+
+**Goal Visualization:**
+- A diagram of a goal is present at the top showing shot locations. Northwestern made one goal, represented by a diamond symbol in the center.
+
+**Shot Summary:**
+- Total shots: 10
+- Shots on goal: 1 (10%)
+- Shots wide: 6 (60%)
+- Shots blocked: 3 (30%)
+- Goals scored: 1
+
+**Timeline:**
+- A timeline is depicted, indicating when significant shots occurred throughout the match. Key timeframes include the 1st, 45+7th, 46th, and 90+9th minutes.
+
+**Pitch Map:**
+- A pitch map visualizes the locations and trajectories of shots taken by the Wildcats, marked with various symbols to distinguish the outcomes.
+
+**Detailed Shot Data:**
+- A table lists each shot with specifics:
+  1. J. Suchecki, 7', Left foot, xG: 0.07
+  2. C. Thaggard, 45+5', Right foot, xG: <0.01
+  3. B. Clagette, 46', Right foot, xG: 0.01
+  4. B. Clagette, 46', Left foot, xG: 0.19
+  5. A. Awujo, 54', Left foot, xG: 0.07
+  6. C. McCamy, 57', Left foot, xG: 0.05
+  7. B. Clagette, 66', Right foot, xG: 0.11, Pass xG: 0.14
+  8. C. McCamy, 68', Right foot, xG: 0.16
+  9. B. Clagette, 69', Right foot, xG: 0.18
+  10. P. Son, 90+5', Left foot, xG: <0.01
+
+- Total expected goals (xG): 0.84
+- Total pass expected goals (Pass xG): 0.14
+
+**Additional Information:**
+- A note at the bottom refers to a glossary for terms at dataglossary.wyscout.com/xg.
+- The page number listed is 13.
+
+The image is a match report from Wyscout featuring the Indiana Hoosiers in a soccer game where they won 6-1 against the Northwestern Wildcats on October 30, 2024. The report focuses on passes made during the game, highlighting combinations with more than three passes in one direction. The size of each player's dot on the field indicates the number of touches. The field is divided into three sections with possession percentages: 19%, 46%, and 35%.
+
+### Passing Network Diagram:
+- The diagram shows connections between players with lines corresponding to the number of passes.
+- Darker and thicker lines indicate more frequent pass combinations.
+
+### Key Players and Pass Combinations:
+1. **J. Harms (1):** Connected frequently with players 13, 4, and 5. Total passes: 24.
+2. **A. Barger (13):** Key connections with players 1, 4, 2, and 5. Total passes: 43.
+3. **J. Maher (4):** Strong links with players 13, 5, and 22. Total passes: 54.
+4. **J. Miller (5):** Frequent connections with 4, 2, and 22. Total passes: 43.
+5. **Q. Elliot (2):** Linked with 5, 22, and 7. Total passes: 38.
+6. **J. Wagoner (21):** Connected mainly with 5 and 22. Total passes: 24.
+7. **P. McDonald (22):** Frequent connections with 5, 2, and 4. Total passes: 42.
+8. **C. Oduro (11):** Played until 59th minute, connecting mainly with 7. Total passes: 15.
+9. **S. Sarver (9):** Played until 86th minute, key connections with 13. Total passes: 13.
+10. **T. Mihalić (10):** Strong links with 22, 11, and 9. Total passes: 20.
+11. **J. Weiss (7):** Played until 93rd minute, connecting primarily with 10. Total passes: 11.
+12. **C. Heuer (16):** Played from 28th minute, linked primarily with 13. Total passes: 6.
+13. **B. Minzey (19):** Played from 27th minute. Minimal ball involvement, total passes: 6.
+14. **S. Stewart (8):** Played from 20th minute, limited passes. Total passes: 4.
+15. **M. Nesci (12):** Played until the 13th minute with minimal involvement. Total passes: 1.
+
+### Color Intensity Grid:
+- The grid illustrates the most common pass combinations, with darker shades representing more frequent combinations.
+
+### Summary of Pass Dynamics:
+- The Hoosiers' play is characterized by strong central passing, with a focus on players 4, 13, 5, and 22.
+- The highest passing activity was centralized, facilitating effective control and distribution across the field.
+
+Page number at the bottom right indicates this is page 14 of the report.
+
+The image displays a pass map and matrix for the Northwestern Wildcats during a match against the Indiana Hoosiers, which ended in a 6-1 loss for Northwestern on October 30, 2024. It comes from a Wyscout match report.
+
+### Pass Map:
+
+- **Field Diagram**: The field is divided into sections with percentages indicating ball possession: 33% in the defensive third, 46% in the middle third, and 20% in the attacking third.
+- **Player Markers**: Circles with numbers represent players, and the size of each circle indicates the number of touches. The black circles denote Northwestern players.
+- **Pass Lines**: Lines between circles illustrate passes. Only combinations with more than three passes in one direction are shown. Thicker lines indicate more frequent passes.
+
+### Pass Matrix:
+
+- **Players**: The matrix lists 17 Northwestern players, each assigned a number:
+  1. R. Ponce de Leon
+  2. T. Glassberg (58’)
+  3. R. Mayer (93’)
+  4. N. Prince
+  5. L. Shreiner
+  20. B. Mayer (93’)	
+  8. B. LeBel (69’)
+  9. J. Suchecki (86’)
+  14. C. McCamy (82’)
+  13. B. Clagette (69’)
+  28. A. Awujo (48’)
+  22. C. Thaggard (20’)
+  10. T. Dewing (58’)
+  23. M. Ramirez (23’)
+  24. J. Van Deventer (48’)
+  7. P. Son (38’)
+  17. D. Tran (20’)
+  29. I. Addimandi (17’)
+
+- **Pass Combinations**: Numbers in the grid show the number of passes between specific players. Color intensity increases with the frequency of passes.
+- **Summary**: The rightmost column records the total number of passes each player completed. Notable figures include N. Prince with 41 passes and R. Mayer with 31 passes.
+
+This visualization effectively highlights passing patterns and player involvement, aiding analysis of individual and team performance in ball distribution during the match.
+
+The image is a match report from Wyscout, focusing on duels in a soccer match between the Indiana Hoosiers and the Northwestern Wildcats, part of the United States NCAA D1 Big Ten conference, played on October 30, 2024. Indiana Hoosiers won the match 6-1.
+
+### Heat Map Overview:
+- The upper section features a heat map of the field showing areas where duels occurred.
+- Numbers represent the ratio of duels won by each team in various areas of the pitch.
+- Indiana Hoosiers' performance is indicated in red, while Northwestern Wildcats' performance is shown in purple.
+- The heat map indicates areas with different duet frequencies, with darker shades representing higher concentrations.
+- Key statistics: 
+  - Indiana won 48% of the duels.
+  - Northwestern won 52% of the duels.
+
+### Northwestern Wildcats Player Duel Statistics:
+- Listed are players identified by numbers and initials, along with their respective duel stats.
+- Players are compared based on individual performances across different sections of the field with numerical indicators.
+- Key players highlighted with higher duel participation and win rates:
+  - Player 13 (A. Barger): 19 duels.
+  - Player 7 (J. Weiss): Leading with 19 duels.
+- Key contributors with significant involvement in duels include players 11 (J. Miller) with 13 duels and 17 (S. Sarver) with 16 duels.
+
+### Additional Insights:
+- Along with individual performances, the diagram displays the competitive nature of the players in terms of territorial control.
+- Player substitutions, indicated in parentheses, mark various stages of the match.
+
+Overall, the page presents a detailed snapshot of the duel dynamics, individual contributions, and spatial distribution of player engagements throughout the match.
+
+The image is a match report focusing on losses by two teams: the Indiana Hoosiers and the Northwestern Wildcats. The data is from a game that ended with Indiana Hoosiers defeating Northwestern Wildcats 6-1 in the United States NCAA D1 Big Ten on October 30, 2024. The report is produced by Wyscout.
+
+### Indiana Hoosiers
+
+#### Players & Last 5 Matches
+- A. Barger: 14 losses, 12.2 average in last 5 matches
+- O. Elliot: 13 losses, 12.4 average
+- S. Sarver: 12 losses, 13.2 average
+- J. Maher: 12 losses, 6.8 average
+
+**Total Losses:** 113 (95.9 average in last 5 matches)
+
+#### Losses by Type
+- Forward pass: 40
+- Ground duel: 37
+- Lateral or back pass: 17
+- Cross: 2
+- Other: 17
+
+#### Game Visualizations
+- Two half-field diagrams showing distributions of actions leading to losses during the 1st and 2nd half. Actions are marked with symbols representing passes, ground duels, crosses, other actions, and losses leading to opponent shots.
+
+### Northwestern Wildcats
+
+#### Players & Last 5 Matches
+- T. Glassberg: 17 losses, 14.1 average in last 5 matches
+- N. Prince: 14 losses, 11.2 average
+- J. Suchecki: 13 losses, 10.7 average
+- B. Clagette: 12 losses, 11.5 average
+
+**Total Losses:** 134 (112.8 average in last 5 matches)
+
+#### Losses by Type
+- Forward pass: 43
+- Ground duel: 27
+- Lateral or back pass: 16
+- Cross: 1
+- Other: 47
+
+#### Game Visualizations
+- Two half-field diagrams for each half showing the locations and types of plays resulting in losses, coded by the same symbols used for Indiana.
+
+Each half's diagram includes metrics on vertical field splits measured in percentage occupation and timestamps for event occurrences. The report is comprehensive with visual and numerical data that offers a detailed overview of loss types and patterns for assessing team and player performance.
+
+The page is a match report from Wyscout focusing on recoveries for a soccer game between Indiana Hoosiers and Northwestern Wildcats. The match result is Indiana Hoosiers 6 – 1 Northwestern Wildcats, played on 30.10.2024.
+
+### Indiana Hoosiers
+
+#### Player Performances
+- **P. McDonald:** 16 recoveries, average of 9.9 in last 5 matches.
+- **A. Barger:** 14 recoveries, average of 9.6 in last 5 matches.
+- **J. Miller:** 12 recoveries, average of 12.7 in last 5 matches.
+- **J. Wagoner:** 8 recoveries, average of 6.8 in last 5 matches.
+
+#### Total Recoveries
+- Total of 84 recoveries, averaging 76.1 over the last 5 matches.
+
+#### Types of Recoveries
+- Positioning: 32
+- Ground duel: 21
+- Interception: 20
+- Aerial duel: 10
+- Sliding tackle: 1
+
+#### Field Mapping
+- The field is illustrated in two halves showing the specific locations of recoveries indicated by different symbols.
+  - Circles: Positioning
+  - Squares: Ground duels
+  - Diamonds: Interceptions
+  - Hexagons: Aerial duels
+  - Pentagons: Sliding tackles
+
+### Northwestern Wildcats
+
+#### Player Performances
+- **N. Prince:** 16 recoveries, average of 10.1 in last 5 matches.
+- **R. Mayer:** 11 recoveries, average of 12.6 in last 5 matches.
+- **B. Mayer:** 10 recoveries, average of 10.5 in last 5 matches.
+- **J. Suchecki:** 8 recoveries, average of 8.5 in last 5 matches.
+
+#### Total Recoveries
+- Total of 78 recoveries, averaging 80.8 over the last 5 matches.
+
+#### Types of Recoveries
+- Positioning: 31
+- Ground duel: 16
+- Interception: 16
+- Aerial duel: 14
+- Sliding tackle: 1
+
+#### Field Mapping
+- Similar to Indiana, recoveries are depicted on the field with corresponding symbols for different recovery types.
+
+The page number at the bottom is 18, suggesting this is part of a longer report.
+
+**Match Report: Dribbles Analysis**
+
+**Game Details:**
+- **Event:** United States NCAA D1 B1G TEN
+- **Date:** 30.10.2024
+- **Teams:** Indiana Hoosiers vs. Northwestern Wildcats
+- **Final Score:** Indiana Hoosiers 6 - 1 Northwestern Wildcats
+
+---
+
+### Indiana Hoosiers Dribble Performance
+
+**Players and Performance:**
+
+1. **Q. Elliot**
+   - Dribbles: 10 attempts, 5 successful (50%)
+   - Last 5 Matches: 5.0 average, 66% success rate
+
+2. **S. Sarver**
+   - Dribbles: 7 attempts, 4 successful (57%)
+   - Last 5 Matches: 6.6 average, 62% success rate
+
+3. **J. Weiss**
+   - Dribbles: 4 attempts, 3 successful (75%)
+   - Last 5 Matches: 2.9 average, 50% success rate
+
+4. **C. Oduro**
+   - Dribbles: 3 attempts, 3 successful (100%)
+   - Last 5 Matches: 5.2 average, 55% success rate
+
+**Overall:**
+- Total Dribbles: 29 attempts, 20 successful (69% success rate)
+- Last 5 Matches Average: 22.8 dribbles, 59% success rate
+
+**1st Half Dribbles Map:**
+- Shows various successful and unsuccessful dribbles distributed across the field, indicating player attempts in both attacking and defending regions.
+
+**2nd Half Dribbles Map:**
+- Similar layout with marked successful dribbles, representing a continuation or shift in strategy and player effectiveness.
+
+---
+
+### Northwestern Wildcats Dribble Performance
+
+**Players and Performance:**
+
+1. **P. Son**
+   - Dribbles: 5 attempts, 2 successful (40%)
+   - Last 5 Matches: 4.9 average, 57% success rate
+
+2. **L. Shreiner**
+   - Dribbles: 3 attempts, 2 successful (67%)
+   - Last 5 Matches: 2.5 average, 60% success rate
+
+3. **C. McCamy**
+   - Dribbles: 2 attempts, 1 successful (50%)
+   - Last 5 Matches: 2.5 average, 36% success rate
+
+4. **A. Awujo**
+   - Dribbles: 2 attempts, 1 successful (50%)
+   - Last 5 Matches: 2.4 average, 71% success rate
+
+**Overall:**
+- Total Dribbles: 19 attempts, 9 successful (47% success rate)
+- Last 5 Matches Average: 16.2 dribbles, 44% success rate
+
+**1st Half Dribbles Map:**
+- Highlights the distribution of successful and unsuccessful dribbles, with focused player efforts primarily in defensive or transitional play zones.
+
+**2nd Half Dribbles Map:**
+- Continued player activities shown, noting any tactical changes or emphasis in different field areas.
+
+---
+
+This analysis provides insights into player performance, tactical execution, and team strategies focusing on dribbles, illustrating how these elements contributed to the match outcome.
+
+The page is a match report summarizing key passes from a soccer game between Indiana Hoosiers and Northwestern Wildcats, part of the United States NCAA D1 Big Ten league. The game finished with a score of Indiana Hoosiers 6, Northwestern Wildcats 1, dated 30.10.2024. 
+
+### Indiana Hoosiers:
+
+#### Players Data:
+- **S. Sarver:** 3 key passes, Last 5 matches: 2.3
+- **Q. Elliot:** 2 key passes, Last 5 matches: 1.0
+- **T. Mihalić:** 2 key passes, Last 5 matches: 1.0
+- **A. Barger:** 2 key passes, Last 5 matches: 0.4
+- **Total:** 16 key passes, Last 5 matches average: 6.1
+
+#### Key Pass Analysis:
+- Player-specific key pass data shows:
+  - **S. Sarver:** Involved in plays with no goal assists.
+  - **Q. Elliot:** Involved, but no goal assists.
+  - **T. Mihalić:** Assisted 1/1 100%
+  - **A. Barger:** Assisted 1/1 100%
+- Team totals: 4/4, 1/1, 1/1, 1/1 assists.
+
+#### Visual Representation:
+- **1st Half:** Cluster of passes in the right half and penalty area.
+- **2nd Half:** Additional key passes focused in the penalty area.
+
+### Northwestern Wildcats:
+
+#### Players Data:
+- **A. Awujo:** 1 key pass, Last 5 matches: 0.7
+- **T. Dewing:** 1 key pass, Last 5 matches: 1.4
+- **C. McCamy:** 1 key pass, Last 5 matches: 0.5
+- **M. Ramirez:** 1 key pass, Last 5 matches: 1.6
+- **Total:** 7 key passes, Last 5 matches average: 4.7
+
+#### Key Pass Analysis:
+- Player-specific key pass data shows:
+  - **A. Awujo:** Assisted 1/1 100%
+  - **T. Dewing:** Involved, but no goal assists.
+  - **C. McCamy:** Assisted 1/1 100%
+  - **M. Ramirez:** Assisted 1/1 100%
+- Team totals: 2/2, 1/1, 1/1, 1/1 assists.
+
+#### Visual Representation:
+- **1st Half:** One key pass in the left half near the Hoosiers goal.
+- **2nd Half:** Key passes concentrated around the right wing and near the penalty area.
+
+The page provides a comprehensive overview of the key players and their passing contributions in the match, along with a visual representation of where these key passes occurred on the field during each half.
+
+**Match Report: Crosses**
+
+**Event:** United States NCAA D1 B1G TEN (30.10.2024)  
+**Result:** Indiana Hoosiers 6 - 1 Northwestern Wildcats
+
+---
+
+### Indiana Hoosiers
+
+**Crossing Performance:**
+- **S. Sarver**: 6 crosses attempted, 2 successful (33%), Last 5 matches average: 6.8
+- **J. Weiss**: 4 crosses, 0 successful (0%), Last 5 matches average: 1.3
+- **A. Barger**: 2 crosses, 1 successful (50%), Last 5 matches average: 1.7
+- **T. Mihalić**: 2 crosses, 0 successful (0%), Last 5 matches average: 1.2
+- **Total for Indiana Hoosiers**: 19 crosses, 3 successful (16% success rate), Last 5 matches success rate: 25%
+  
+**Second Half Players Performance:**
+- **T. Mihalić**: 1 cross, 1 successful (100%)
+- **C. Heuer**: 1 cross, 1 successful (100%)
+- **Total second half success**: 3 crosses, all successful
+
+**Visualization:**
+- **1st Half**: 45-55% activity zone in the final third. Various unsuccessful crosses marked in the box.
+- **2nd Half**: 38-63% activity zone. All crosses successful in targeted areas.
+
+---
+
+### Northwestern Wildcats
+
+**Crossing Performance:**
+- **P. Son**: 3 crosses, 2 successful (67%), Last 5 matches average: 2.8
+- **B. Mayer**: 2 crosses, 2 successful (100%), Last 5 matches average: 2.1
+- **M. Ramirez**: 2 crosses, 0 successful (0%), Last 5 matches average: 3.8
+- **T. Glassberg**: 1 cross, 0 successful (0%), Last 5 matches average: 1.5
+- **Total for Northwestern Wildcats**: 11 crosses, 7 successful (64% success rate), Last 5 matches success rate: 36%
+
+**Second Half Players Performance:**
+- **C. McCamry, T. Dewing, A. Awujo, D. Tran**: Each had one successful cross.
+- **Total second half success**: 5 crosses, all successful
+
+**Visualization:**
+- **1st Half**: 40-60% activity zone in the final third. Both successful and unsuccessful crosses mapped.
+- **2nd Half**: 17-83% activity zone. Successful crossings mainly in strategic positions.
+
+---
+
+**General Observations:**
+- Indiana Hoosiers had a lower crossing accuracy in the first half but improved significantly in the second half.
+- Northwestern Wildcats maintained a high crossing success rate throughout the match.
+- Strategic adjustments observed in the second half for both teams, focusing on efficient cross placements.
+
+The image is a match report focusing on fouls from a NCAA Division 1 Big Ten soccer game played on October 30, 2024, between Indiana Hoosiers and Northwestern Wildcats. The score was Indiana Hoosiers 6 - 1 Northwestern Wildcats. 
+
+### Indiana Hoosiers
+
+- **Player Foul Stats:**
+  - **J. Wagoner:** Committed 2 fouls, average 1.4 in last 5 matches.
+  - **A. Barger:** Committed 2 fouls, average 0.6 in last 5 matches.
+  - **P. McDonald:** Committed 2 fouls, average 1.2 in last 5 matches.
+  - **J. Weiss:** Committed 1 foul, average 0.2 in last 5 matches.
+  - **Total:** 12 fouls, average 7.0 in last 5 matches.
+
+- **Detailed Half Stats:**
+  - **1st Half:**
+    - No fouls committed (as seen on the pitch map).
+  - **2nd Half:**
+    - J. Wagoner, A. Barger, and J. Weiss committed fouls. A yellow card was given to J. Weiss (as indicated by a yellow card icon on the pitch map).
+
+### Northwestern Wildcats
+
+- **Player Foul Stats:**
+  - **T. Glassberg:** Committed 2 fouls, average 2.4 in last 5 matches.
+  - **A. Awujo:** Committed 2 fouls, average 1.7 in last 5 matches.
+  - **T. Dewing:** Committed 2 fouls, average 2.0 in last 5 matches.
+  - **D. Tran:** Committed 2 fouls, average 1.7 in last 5 matches.
+  - **Total:** 16 fouls, average 12.8 in last 5 matches.
+
+- **Detailed Half Stats:**
+  - **1st Half:**
+    - Fouls committed by T. Glassberg, A. Awujo, and D. Tran. T. Glassberg received a yellow card.
+  - **2nd Half:**
+    - Additional fouls committed by T. Dewing, A. Awujo. A yellow card was given to T. Dewing (indicated on the pitch map).
+
+### Summary
+
+The report includes foul locations on the pitch map for both halves. Regular fouls are indicated by black dots, while yellow cards are shown with yellow squares. The Indiana Hoosiers committed 12 fouls compared to 16 by the Wildcats. The Hoosiers received one yellow card in the second half, while the Wildcats received two yellow cards, one in each half.
+
+### Overview:
+
+The page is from a match report focusing on ground duels between Indiana Hoosiers and Northwestern Wildcats. The match took place in the United States, NCAA D1 BIG TEN on October 30, 2024. Indiana Hoosiers won the match 6-1 against Northwestern Wildcats.
+
+### Indiana Hoosiers:
+
+#### Ground Duels Statistics:
+
+- **Players:**
+  - **Q. Elliot:**
+    - Total: 27/14 (52%)
+    - Last 5 Matches: 18.1 average (60%)
+  - **C. Oduro:**
+    - Total: 20/6 (30%)
+    - Last 5 Matches: 21.4 average (43%)
+  - **A. Barger:**
+    - Total: 19/12 (63%)
+    - Last 5 Matches: 12.6 average (59%)
+  - **S. Sarver:**
+    - Total: 15/6 (40%)
+    - Last 5 Matches: 16.4 average (49%)
+
+- **Total:**
+  - 162/85 (52%), Last 5 Matches: 129.2 average (54%)
+
+#### Ground Duels Analysis:
+
+- **1st Half and 2nd Half:**
+  - Successful duels are marked as filled circles.
+  - Unsuccessful duels are marked as squares.
+  - Players are positioned over the field diagram showing the location of each duel.
+
+#### 2nd Half Duel Breakdown:
+
+- **Player Analysis:**
+  - **L. Shreiner:** 4/2 (50%)
+  - **B. Mayer:** 1/5 (20%)
+  - **C. McCamy:** 1/1 (100%)
+  - **P. Son:** 4/0
+
+- **Total for 2nd Half:**
+  - 12/5 overall duels
+
+### Northwestern Wildcats:
+
+#### Ground Duels Statistics:
+
+- **Players:**
+  - **L. Shreiner:**
+    - Total: 13/8 (62%)
+    - Last 5 Matches: 14.2 average (64%)
+  - **C. McCamy:**
+    - Total: 11/5 (45%)
+    - Last 5 Matches: 9.7 average (43%)
+  - **B. Clagette:**
+    - Total: 11/4 (36%)
+    - Last 5 Matches: 11.8 average (47%)
+  - **B. Mayer:**
+    - Total: 11/5 (45%)
+    - Last 5 Matches: 11.9 average (50%)
+
+- **Total:**
+  - 121/57 (47%), Last 5 Matches: 118.0 average (49%)
+
+#### Ground Duels Analysis:
+
+- **1st Half and 2nd Half:**
+  - Similar to Indiana, successful duels shown by filled circles and unsuccessful ones by squares.
+  - Field diagrams show spatial distribution of each player's duels.
+
+#### 2nd Half Duel Breakdown:
+
+- **Player Analysis:**
+  - **Q. Elliot:** 4/1 (25%)
+  - **A. Barger:** 1/1 (100%)
+  - **S. Sarver:** 1/0
+  - **P. McDonald:** 3/1 (33%)
+
+-
+
+The match report titled "Aerial Duels" displays detailed statistics from a game between Indiana Hoosiers and Northwestern Wildcats in the NCAA D1 B1G TEN. The report shows that Indiana Hoosiers won 6-1 against Northwestern Wildcats.
+
+### Indiana Hoosiers:
+
+#### Aerial Duels Statistics:
+- **J. Waggoner**: 6/3 successful duels (50%), average of 3.4 successful aerial duels in the last 5 matches (35%).
+- **A. Barger**: 5/2 successful duels (40%), average of 3.4 (38%).
+- **J. Miller**: 4/2 successful duels (50%), average of 5.9 (56%).
+- **C. Oduro**: 4/0 successful duels (0%), average of 3.4 (31%).
+- **Total**: 39/15 successful duels (38%), last 5 matches average 31.4 (44%).
+
+#### Distribution of Duels:
+- **1st Half**: Successful and unsuccessful aerial duels are depicted on a pitch diagram.
+- **2nd Half**: Separate pitch diagram showing duel locations.
+
+### Northwestern Wildcats:
+
+#### Aerial Duels Statistics:
+- **T. Dewing**: 8/3 successful duels (38%), average of 8.1 in the last 5 matches (33%).
+- **R. Mayer**: 6/6 successful duels (100%), average of 6.6 (87%).
+- **B. Mayer**: 5/3 successful duels (60%), average of 7.0 (58%).
+- **N. Prince**: 4/4 successful duels (100%), average of 6.0 (59%).
+- **Total**: 41/25 successful duels (61%), last 5 matches average 43.2 (50%).
+
+#### Distribution of Duels:
+- **1st Half**: Visual representation of successful and unsuccessful duels.
+- **2nd Half**: Another pitch layout showing dueling positions.
+
+### Further Player Details:
+- Indiana Hoosiers players also tracked with duels against specific Northwestern Wildcats players, displaying various match-up results.
+- Pitch diagrams for both halves include markings to denote successful and unsuccessful aerial duels.
+
+The document is organized to distinctly show data from each half, with graphical illustrations to aid in visualizing player positioning and areas of activity during the match.
+
+The page is from a "Wyscout Match Report Glossary," providing definitions for various soccer metrics and terms:
+
+### Glossary Terms:
+
+1. **Average Positions**
+   - Players' positions are calculated as an average point of all actions where they touched the ball.
+
+2. **XG (Expected Goals)**
+   - A metric assigning a probability to each shot (based on historical stats) of how likely it is to score from the position, type of assist, preceding events, etc. It evaluates the matches with more emphasis on the predictability of moments over pure luck.
+
+3. **Forward / Back / Lateral Pass**
+   - Passes are quantified in quadrants of 45°. Passes to the side with lengths more than 12 meters are considered lateral.
+
+4. **Smart Pass**
+   - A pass that creatively develops the team's attack.
+
+5. **Second / Third Assist**
+   - A second assist is a pass leading directly to an assist. A third assist is a pass leading to a second assist. Not every assist involves second/third assists.
+
+6. **Progressive Pass**
+   - This is a pass moving the ball significantly forward. Minimal requirements for progression:
+     - 30 meters, if starting and ending points are in own half.
+     - 15 meters, if starting and ending points are in different halves.
+     - 10 meters, if starting and ending points are in the opponent half.
+
+7. **Pass to Final Third**
+   - A pass reaching a zone within 35 meters from the opponent's goal line.
+
+8. **Defensive Duel**
+   - A duel occurring when the opponent team possessed the ball.
+
+9. **Offensive Duel**
+   - A duel occurring when the player possessed the ball.
+
+10. **Reflex Save**
+    - A goalkeeper save made using reflexes.
+
+11. **Transition**
+    - Active possession change. It's categorized based on the field third as Low, Medium, or High.
+
+12. **Attack**
+    - A possession comprising at least one action in the opponent's final third.
+
+13. **Counterattack**
+    - An attack involving quick transitions, leveraging opponent's positional disadvantages.
+
+14. **Positional Attack**
+    - An open play (not from set pieces) which isn’t termed as a counterattack.
+
+15. **Deep Completion**
+    - A pass (excluding crosses) received within a 20-meter radius of the opponent's goal line.
+
+16. **PPDA**
+    - Opponent passes per defensive action in the opponent's final 60% of the pitch. A widely used metric to quantify pressing intensity.
+
+17. **Match Tempo**
+    - The number of passes per minute of possession. 
+
+The page has a simple design with a clear division of terms and definitions, which covers various tactical and statistical aspects of soccer.
